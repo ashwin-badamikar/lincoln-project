@@ -1,0 +1,98 @@
+[
+  {
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "source_id": "loc_election_night_1860",
+    "source_title": "Letter about Election Night 1860",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "The date of the event is November 6, 1860.",
+      "The author went to the telegraph office at nine o'clock in the evening.",
+      "The first dispatch received was from Decatur, Illinois, showing a gain of 40 votes.",
+      "Returns began to pour in from all quarters.",
+      "By midnight, Lincoln's victory was assured.",
+      "The author went home but did not sleep due to the responsibility felt."
+    ],
+    "temporal_details": {
+      "date": "November 6, 1860",
+      "time": "nine o'clock in the evening",
+      "duration": "not mentioned"
+    },
+    "tone": "Sympathetic",
+    "direct_quotes": [],
+    "confidence": "High"
+  },
+  {
+    "event_id": "fort_sumter_decision",
+    "event_name": "Fort Sumter Decision",
+    "source_id": "loc_fort_sumter_decision",
+    "source_title": "Fort Sumter Decision",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "The Fort cannot be permanently held without a large increase of the present garrison.",
+      "A large increase would require a naval force to keep open communication.",
+      "The attempt to supply provisions would provoke an attack and so involve a war.",
+      "There is a necessity of maintaining visible possession of Federal property.",
+      "Withdrawal would have political effects upon the public mind.",
+      "The question of holding the Fort involves the question of war."
+    ],
+    "temporal_details": {
+      "date": "March 29, 1861",
+      "time": "",
+      "duration": ""
+    },
+    "tone": "Neutral",
+    "direct_quotes": [],
+    "confidence": "High"
+  },
+  {
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "source_id": "loc_gettysburg_address",
+    "source_title": "Gettysburg Address (Nicolay Copy)",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "Lincoln delivered the Gettysburg Address on November 19, 1863.",
+      "The address was given at a dedication ceremony for a portion of the battlefield as a final resting place for soldiers who died there.",
+      "Lincoln stated that the nation was engaged in a great civil war testing whether a nation conceived in liberty and dedicated to equality can endure.",
+      "Lincoln emphasized that the brave men who struggled at Gettysburg hallowed the ground far above the power of words to add or detract.",
+      "He called for the living to be dedicated to the task of ensuring that the dead did not die in vain and that the nation would experience a new birth of freedom."
+    ],
+    "temporal_details": {
+      "date": "November 19, 1863",
+      "time": "",
+      "duration": ""
+    },
+    "tone": "Admiring",
+    "direct_quotes": [
+      "Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that 'all men are created equal.'",
+      "The world will little note, nor long remember what we say here; while it can never forget what they did here.",
+      "That we here highly resolve these dead shall not have died in vain; that the nation, shall have a new birth of freedom, and that government of the people by the people for the people, shall not perish from the earth."
+    ],
+    "confidence": "High"
+  },
+  {
+    "event_id": "second_inaugural_address",
+    "event_name": "Second Inaugural Address",
+    "source_id": "loc_second_inaugural",
+    "source_title": "Second Inaugural Address",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "This is Lincoln's second appearance to take the oath of the Presidential office.",
+      "The address is delivered on March 4, 1865.",
+      "Lincoln mentions that there is less occasion for an extended address than there was at the first inauguration.",
+      "He states that the progress of arms is known to the public and is reasonably satisfactory and encouraging.",
+      "Lincoln expresses a desire to finish the work of binding up the nation's wounds and caring for veterans and their families."
+    ],
+    "temporal_details": {
+      "date": "March 4, 1865",
+      "time": null,
+      "duration": null
+    },
+    "tone": "Sympathetic",
+    "direct_quotes": [
+      "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations."
+    ],
+    "confidence": "High"
+  }
+]

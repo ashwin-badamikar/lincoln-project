@@ -1,0 +1,136 @@
+{
+  "ablation_study": {
+    "zero_shot": {
+      "strategy": "zero_shot",
+      "scores": [
+        85,
+        85,
+        85,
+        85,
+        85,
+        70,
+        85,
+        75,
+        95,
+        85,
+        85,
+        85,
+        95,
+        85,
+        85,
+        85,
+        95,
+        90
+      ],
+      "mean": 85.55555555555556,
+      "std": 5.9835164523716715,
+      "min": 70.0,
+      "max": 95.0
+    },
+    "chain_of_thought": {
+      "strategy": "chain_of_thought",
+      "scores": [
+        80,
+        90,
+        70,
+        90,
+        85,
+        65,
+        60,
+        85,
+        95,
+        85,
+        90,
+        85,
+        90,
+        70,
+        75,
+        85,
+        90,
+        85
+      ],
+      "mean": 81.94444444444444,
+      "std": 9.594397799539191,
+      "min": 60.0,
+      "max": 95.0
+    },
+    "few_shot": {
+      "strategy": "few_shot",
+      "scores": [
+        85,
+        90,
+        85,
+        85,
+        85,
+        85,
+        75,
+        75,
+        95,
+        95,
+        85,
+        85,
+        95,
+        90,
+        85,
+        85,
+        95,
+        95
+      ],
+      "mean": 87.22222222222223,
+      "std": 6.0603956192420645,
+      "min": 75.0,
+      "max": 95.0
+    }
+  },
+  "self_consistency": [
+    {
+      "event_id": "election_night_1860",
+      "event_name": "Election Night 1860",
+      "comparison": "Lincoln vs John G. Nicolay",
+      "scores": [
+        85,
+        90,
+        85,
+        90,
+        80
+      ],
+      "mean": 86.0,
+      "std": 3.7416573867739413,
+      "range": 10,
+      "is_reliable": true
+    },
+    {
+      "event_id": "second_inaugural_address",
+      "event_name": "Second Inaugural Address",
+      "comparison": "Lincoln vs John G. Nicolay",
+      "scores": [
+        85,
+        85,
+        90,
+        90,
+        85
+      ],
+      "mean": 87.0,
+      "std": 2.449489742783178,
+      "range": 5,
+      "is_reliable": true
+    },
+    {
+      "event_id": "election_night_1860",
+      "event_name": "Election Night 1860",
+      "comparison": "Lincoln vs Henry Ketcham",
+      "scores": [
+        75,
+        85,
+        65,
+        60,
+        75
+      ],
+      "mean": 72.0,
+      "std": 8.717797887081348,
+      "range": 25,
+      "is_reliable": true
+    }
+  ],
+  "cohens_kappa": {}
+}

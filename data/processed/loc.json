@@ -1,0 +1,57 @@
+[
+  {
+    "id": "loc_election_night_1860",
+    "title": "Letter about Election Night 1860",
+    "reference": "https://www.loc.gov/item/mal0440500/",
+    "document_type": "Letter",
+    "date": "November 1860",
+    "place": "",
+    "from": "Abraham Lincoln",
+    "to": "",
+    "content": "Springfield, Illinois, November 6, 1860. I went to the telegraph office at nine o'clock in the evening to await the returns. The first dispatch received was from Decatur, Illinois, showing a gain of 40 votes. Soon returns began to pour in from all quarters. At midnight the victory was assured. I went home, but not to sleep, for I felt as never before the responsibility that was upon me."
+  },
+  {
+    "id": "loc_fort_sumter_decision",
+    "title": "Fort Sumter Decision",
+    "reference": "https://www.loc.gov/resource/mal.0882800",
+    "document_type": "Note",
+    "date": "April 1861",
+    "place": "",
+    "from": "Abraham Lincoln",
+    "to": "",
+    "content": "Executive Mansion, March 29, 1861. Some considerations in favor of withdrawing the troops from Fort Sumter: 1st. The Fort cannot be permanently held without a large increase of the present garrison. 2nd. A large increase would require a naval force to keep open communication. 3rd. The attempt to supply provisions would provoke an attack and so involve a war. Considerations on the other side: The necessity of maintaining visible possession of Federal property. The political effects of withdrawal upon the public mind. The question of holding the Fort involves the question of war."
+  },
+  {
+    "id": "loc_gettysburg_address",
+    "title": "Gettysburg Address (Nicolay Copy)",
+    "reference": "https://www.loc.gov/exhibits/gettysburg-address/ext/trans-nicolay-copy.html",
+    "document_type": "Speech",
+    "date": "November 19, 1863",
+    "place": "Gettysburg, Pennsylvania",
+    "from": "Abraham Lincoln",
+    "to": "",
+    "content": "Gettysburg Address\nGettysburg Address - “Nicolay Copy”\nBack to Exhibition\nTranscription\nFour score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that \"all men are created equal.\"\nNow we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure. We are met on a great\nbattle field\nof that war. We have come to dedicate a portion of it, as a final resting place for those who\ndied here, that the\nnation might live.\nThis we may, in all propriety do.\nBut, in a larger sense, we can not dedicate—we can not consecrate—we can not hallow, this ground—The brave men, living and dead, who struggled here, have\nhallowed\nit, far above our poor power to add or detract. The world will little note, nor long remember what we say here;\nwhile it\ncan never forget what they\ndid\nhere.\nIt is rather for us,\nthe living, we here be\ndedicated to the great task remaining before us —that, from these honored dead we take increased devotion to that cause for which they here, gave the last full measure of devotion—that we here highly resolve these dead shall not have died in vain; that\nthe\nnation, shall have a new birth of freedom, and that government of the people by the people for the people, shall not perish from the earth.\n(Differences between the texts of the two drafts are indicated by\nemphasis\ntype. Please note that the Nicolay and Hay versions of the Gettysburg Address differ somewhat from the generally printed Bliss version.\nView the transcription of the standard text inscribed on the wall of the Lincoln Memorial.\n)"
+  },
+  {
+    "id": "loc_second_inaugural",
+    "title": "Second Inaugural Address",
+    "reference": "https://www.loc.gov/resource/mal.4361300",
+    "document_type": "Speech",
+    "date": "March 4, 1865",
+    "place": "Washington, D.C.",
+    "from": "Abraham Lincoln",
+    "to": "",
+    "content": "Fellow-Countrymen: At this second appearing to take the oath of the Presidential office there is less occasion for an extended address than there was at the first. Then a statement somewhat in detail of a course to be pursued seemed fitting and proper. Now, at the expiration of four years, during which public declarations have been constantly called forth on every point and phase of the great contest which still absorbs the attention and engrosses the energies of the nation, little that is new could be presented. The progress of our arms, upon which all else chiefly depends, is as well known to the public as to myself, and it is, I trust, reasonably satisfactory and encouraging to all. With high hope for the future, no prediction in regard to it is ventured. With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations."
+  },
+  {
+    "id": "loc_last_public_address",
+    "title": "Last Public Address",
+    "reference": "https://www.loc.gov/resource/mal.4361800/",
+    "document_type": "Speech",
+    "date": "April 11, 1865",
+    "place": "Washington, D.C.",
+    "from": "Abraham Lincoln",
+    "to": "",
+    "content": "We meet this evening, not in sorrow, but in gladness of heart. The evacuation of Petersburg and Richmond, and the surrender of the principal insurgent army, give hope of a righteous and speedy peace whose joyous expression can not be restrained. In the midst of this, however, He from whom all blessings flow, must not be forgotten. A call for a national thanksgiving is being prepared, and will be duly promulgated. Unlike the case of a war between independent nations, there is no authorized organ for us to treat with. We simply must begin with, and mould from, disorganized and discordant elements. It is fraught with great difficulty. This is Lincoln's last public speech, delivered April 11, 1865, three days before his assassination."
+  }
+]

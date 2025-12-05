@@ -1,0 +1,213 @@
+{
+  "instructions": "\nMANUAL LABELING INSTRUCTIONS:\n1. Read the Lincoln claims and Other Author claims for each pair\n2. Determine if they are \"consistent\" or \"contradictory\"\n3. Use \"consistent\" if the accounts generally agree or complement each other\n4. Use \"contradictory\" if there are significant factual conflicts\n5. Fill in the \"human_label\" field with your judgment\n6. Optionally add notes explaining your reasoning\n            ",
+  "pairs": [
+    {
+      "id": 1,
+      "event": "Election Night 1860",
+      "other_author": "John G. Nicolay",
+      "lincoln_claims": [
+        "The date of the event is November 6, 1860.",
+        "The author went to the telegraph office at nine o'clock in the evening.",
+        "The first dispatch received was from Decatur, Illinois, showing a gain of 40 votes.",
+        "Returns began to pour in from all quarters.",
+        "By midnight, Lincoln's victory was assured."
+      ],
+      "other_claims": [
+        "Abraham Lincoln was elected as the 16th President of the United States on November 6, 1860.",
+        "The election of Lincoln was perceived by the seceding States as a threat to the institution of African slavery.",
+        "The seceding States aimed to establish a slave Confederacy in response to Lincoln's election."
+      ],
+      "human_label": "consistent",
+      "notes": "Both agree on Nov 6, 1860 date and election victory"
+    },
+    {
+      "id": 2,
+      "event": "Second Inaugural Address",
+      "other_author": "John G. Nicolay",
+      "lincoln_claims": [
+        "This is Lincoln's second appearance to take the oath of the Presidential office.",
+        "The address is delivered on March 4, 1865.",
+        "Lincoln mentions that there is less occasion for an extended address than there was at the first inauguration.",
+        "He states that the progress of arms is known to the public and is reasonably satisfactory and encouraging.",
+        "Lincoln expresses a desire to finish the work of binding up the nation's wounds and caring for veterans and their families."
+      ],
+      "other_claims": [
+        "Lincoln's second inaugural address was delivered on March 4, 1865.",
+        "The speech was memorable and marked a step in Lincoln's intellectual development.",
+        "The address is described as a model of brevity, directness, and logical propositions.",
+        "Lincoln's main argument was to vindicate and restore the policy of the fathers of the country regarding the restriction of slavery.",
+        "Lincoln expressed hatred for slavery due to its injustice and its impact on the principles of civil liberty."
+      ],
+      "human_label": "consistent",
+      "notes": "Both agree on March 4, 1865 date and themes of the address"
+    },
+    {
+      "id": 3,
+      "event": "Election Night 1860",
+      "other_author": "Henry Ketcham",
+      "lincoln_claims": [
+        "The date of the event is November 6, 1860.",
+        "The author went to the telegraph office at nine o'clock in the evening.",
+        "The first dispatch received was from Decatur, Illinois, showing a gain of 40 votes.",
+        "Returns began to pour in from all quarters.",
+        "By midnight, Lincoln's victory was assured."
+      ],
+      "other_claims": [
+        "Lincoln was elected as the 16th President of the United States on November 6, 1860.",
+        "Lincoln was at the head of the electoral ticket of the state of Illinois.",
+        "Lincoln playfully called himself one of the electors that seldom elected anybody.",
+        "Buchanan carried the state of Illinois by a handsome majority, but Bissell was elected governor by a good majority.",
+        "Abraham Lincoln was elected as the 16th President of the United States on November 6, 1860."
+      ],
+      "human_label": "consistent",
+      "notes": "Both agree on election date Nov 6, 1860"
+    },
+    {
+      "id": 4,
+      "event": "Fort Sumter Decision",
+      "other_author": "Henry Ketcham",
+      "lincoln_claims": [
+        "The Fort cannot be permanently held without a large increase of the present garrison.",
+        "A large increase would require a naval force to keep open communication.",
+        "The attempt to supply provisions would provoke an attack and so involve a war.",
+        "There is a necessity of maintaining visible possession of Federal property.",
+        "Withdrawal would have political effects upon the public mind."
+      ],
+      "other_claims": [
+        "James Buchanan was President before Lincoln and failed to act decisively to protect Fort Sumter.",
+        "General Winfield Scott advocated for garrisoning southern forts to prevent them from being lost.",
+        "On December 3, 1860, Buchanan stated that the government had the power to suppress revolt but could not use that power against South Carolina.",
+        "By February 1861, seven states had passed ordinances of secession.",
+        "By the first day of February, seven states had passed ordinances of secession."
+      ],
+      "human_label": "consistent",
+      "notes": "Lincoln discusses decision factors, author provides context - complementary"
+    },
+    {
+      "id": 5,
+      "event": "Gettysburg Address",
+      "other_author": "Henry Ketcham",
+      "lincoln_claims": [
+        "Lincoln delivered the Gettysburg Address on November 19, 1863.",
+        "The address was given at a dedication ceremony for a portion of the battlefield as a final resting place for soldiers who died there.",
+        "Lincoln stated that the nation was engaged in a great civil war testing whether a nation conceived in liberty and dedicated to equality can endure.",
+        "Lincoln emphasized that the brave men who struggled at Gettysburg hallowed the ground far above the power of words to add or detract.",
+        "He called for the living to be dedicated to the task of ensuring that the dead did not die in vain and that the nation would experience a new birth of freedom."
+      ],
+      "other_claims": [
+        "The Gettysburg Address was delivered on November 19, 1863.",
+        "Lincoln's part at the dedication was to pronounce the formal words of dedication.",
+        "Edward Everett was the orator of the occasion.",
+        "Lincoln wrote the speech on a sheet of foolscap paper in odd moments.",
+        "The speech is described as prose in form but poetic in effect."
+      ],
+      "human_label": "consistent",
+      "notes": "Both agree on Nov 19, 1863 date and ceremony details"
+    },
+    {
+      "id": 6,
+      "event": "Second Inaugural Address",
+      "other_author": "Henry Ketcham",
+      "lincoln_claims": [
+        "This is Lincoln's second appearance to take the oath of the Presidential office.",
+        "The address is delivered on March 4, 1865.",
+        "Lincoln mentions that there is less occasion for an extended address than there was at the first inauguration.",
+        "He states that the progress of arms is known to the public and is reasonably satisfactory and encouraging.",
+        "Lincoln expresses a desire to finish the work of binding up the nation's wounds and caring for veterans and their families."
+      ],
+      "other_claims": [
+        "Lincoln expressed a desire to take the oath of office before March 4, 1865, due to the increasing difficulties he faced.",
+        "Lincoln stated that he was in the 'garden of Gethsemane' and that his 'cup of bitterness is full to overflowing'.",
+        "Lincoln's inaugural address was read on March 4, 1865.",
+        "Lincoln lost the manuscript of his inaugural address while traveling to Washington.",
+        "The address was carried in a satchel that Lincoln had given to his son Robert."
+      ],
+      "human_label": "consistent",
+      "notes": "Both agree on March 4, 1865 - author adds biographical details"
+    },
+    {
+      "id": 7,
+      "event": "Election Night 1860",
+      "other_author": "Jr. John T. Morse",
+      "lincoln_claims": [
+        "The date of the event is November 6, 1860.",
+        "The author went to the telegraph office at nine o'clock in the evening.",
+        "The first dispatch received was from Decatur, Illinois, showing a gain of 40 votes.",
+        "Returns began to pour in from all quarters.",
+        "By midnight, Lincoln's victory was assured."
+      ],
+      "other_claims": [
+        "Abraham Lincoln was elected as the 16th President on November 6, 1860.",
+        "The voting results showed 2,213,665 Republican votes and 1,802,237 Democratic votes.",
+        "Lincoln's plurality was 494,567 votes.",
+        "Lincoln went to the War Department on election night and stayed until two o'clock at night, noting the returns.",
+        "Lincoln expressed gratitude for the people's confidence but stated that his gratitude was free from any taint of personal triumph."
+      ],
+      "human_label": "contradictory",
+      "notes": "Lincoln says telegraph office at 9pm, author says War Department until 2am - location discrepancy"
+    },
+    {
+      "id": 8,
+      "event": "Fort Sumter Decision",
+      "other_author": "Jr. John T. Morse",
+      "lincoln_claims": [
+        "The Fort cannot be permanently held without a large increase of the present garrison.",
+        "A large increase would require a naval force to keep open communication.",
+        "The attempt to supply provisions would provoke an attack and so involve a war.",
+        "There is a necessity of maintaining visible possession of Federal property.",
+        "Withdrawal would have political effects upon the public mind."
+      ],
+      "other_claims": [
+        "Beauregard commands at Charleston and is notified by Lincoln of the purpose to reinforce Sumter.",
+        "Beauregard requests the surrender of Sumter and commands the bombardment.",
+        "Cameron, Simon, opposes relieving Fort Sumter.",
+        "Chase, Salmon P., wishes to reinforce Sumter.",
+        "John B. Floyd was involved in a quarrel over the question of reinforcing Fort Sumter and subsequently resigned."
+      ],
+      "human_label": "consistent",
+      "notes": "Complementary - Lincoln's considerations vs author's account of key figures"
+    },
+    {
+      "id": 9,
+      "event": "Gettysburg Address",
+      "other_author": "Jr. John T. Morse",
+      "lincoln_claims": [
+        "Lincoln delivered the Gettysburg Address on November 19, 1863.",
+        "The address was given at a dedication ceremony for a portion of the battlefield as a final resting place for soldiers who died there.",
+        "Lincoln stated that the nation was engaged in a great civil war testing whether a nation conceived in liberty and dedicated to equality can endure.",
+        "Lincoln emphasized that the brave men who struggled at Gettysburg hallowed the ground far above the power of words to add or detract.",
+        "He called for the living to be dedicated to the task of ensuring that the dead did not die in vain and that the nation would experience a new birth of freedom."
+      ],
+      "other_claims": [
+        "The national military cemetery at Gettysburg was to be consecrated on November 19, 1863.",
+        "Edward Everett was to deliver the oration at the dedication ceremony.",
+        "Lincoln was invited to say a few appropriate remarks at the event.",
+        "Lincoln delivered the Gettysburg Address after Edward Everett's oration.",
+        "The Gettysburg Address was delivered by President Abraham Lincoln."
+      ],
+      "human_label": "consistent",
+      "notes": "Both agree on Nov 19, 1863 and Everett's role"
+    },
+    {
+      "id": 10,
+      "event": "Second Inaugural Address",
+      "other_author": "Jr. John T. Morse",
+      "lincoln_claims": [
+        "This is Lincoln's second appearance to take the oath of the Presidential office.",
+        "The address is delivered on March 4, 1865.",
+        "Lincoln mentions that there is less occasion for an extended address than there was at the first inauguration.",
+        "He states that the progress of arms is known to the public and is reasonably satisfactory and encouraging.",
+        "Lincoln expresses a desire to finish the work of binding up the nation's wounds and caring for veterans and their families."
+      ],
+      "other_claims": [
+        "Lincoln's second inaugural address took place on March 4, 1865.",
+        "The address included the phrase 'malice toward none.'",
+        "Lincoln stated that the union of the States is perpetual and that no State can lawfully get out of the Union.",
+        "Lincoln expressed that the resolves and ordinances for secession are legally void.",
+        "The context of the address was the impending end of the Confederacy, as indicated by military developments and public sentiment."
+      ],
+      "human_label": "consistent",
+      "notes": "Both agree on March 4, 1865 and malice toward none theme"
+    }
+  ]
+}

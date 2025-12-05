@@ -1,0 +1,1545 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Lincoln, A. (1861) <cite>Abraham Lincoln papers: Series 1. General Correspondence. 1833 to 1916: Robert S. Chew to Abraham Lincoln, Monday,Report of meeting with Gov. Pickens</cite>. April 8. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mal0882800/.",
+    "chicago": "Lincoln, Abraham. <cite>Abraham Lincoln papers: Series 1. General Correspondence. 1833 to 1916: Robert S. Chew to Abraham Lincoln, Monday,Report of meeting with Gov. Pickens</cite>. April 8, 1861. Manuscript/Mixed Material. https://www.loc.gov/item/mal0882800/.",
+    "mla": "Lincoln, Abraham. <cite>Abraham Lincoln papers: Series 1. General Correspondence. 1833 to 1916: Robert S. Chew to Abraham Lincoln, Monday,Report of meeting with Gov. Pickens</cite>. April 8, 1861. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;www.loc.gov/item/mal0882800/&gt;."
+  },
+  "item": {
+    "_version_": 1730875584478707712,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/item/mal0882800/",
+      "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.0882800",
+      "http://www.loc.gov/resource/mal.0882800/",
+      "http://www.loc.gov/item/mal.0882800/"
+    ],
+    "call_number": [
+      "series: Series 1. General Correspondence. 1833-1916"
+    ],
+    "campaigns": [],
+    "contributor_names": [
+      "Lincoln, Abraham, 1809-1865"
+    ],
+    "contributors": [
+      {
+        "lincoln, abraham": "https://www.loc.gov/search/?fa=contributor:lincoln,+abraham&fo=json"
+      }
+    ],
+    "created_published": [
+      "April 8, 1861"
+    ],
+    "date": "1861-04-08",
+    "dates": [
+      {
+        "1861-04-08": "https://www.loc.gov/search/?dates=1861-04-08/1861-04-08&fo=json"
+      }
+    ],
+    "digital_id": [
+      "http://hdl.loc.gov/loc.mss/ms000001.mss30189a.0882800"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2022-01-29T04:10:57.056Z",
+    "extract_urls": [
+      "http://c2vlpdmtool01.loc.gov/data-management-tool/export_group_xml/mal/mal0882800.xml#mal"
+    ],
+    "format": [
+      {
+        "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format:manuscript/mixed+material&fo=json"
+      }
+    ],
+    "genre": [
+      "Manuscripts"
+    ],
+    "group": [
+      "mal",
+      "abraham-lincoln-papers"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/mal0882800/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:6.25/0/default.jpg#h=395&w=311",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:12.5/0/default.jpg#h=791&w=622",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:25/0/default.jpg#h=1583&w=1245",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:50/0/default.jpg#h=3167&w=2490",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:100/0/default.jpg#h=6334&w=4980"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": [
+        "series: Series 1. General Correspondence. 1833-1916"
+      ],
+      "contributors": [
+        "Lincoln, Abraham, 1809-1865"
+      ],
+      "created_published": [
+        "April 8, 1861"
+      ],
+      "date": "18610408",
+      "digital_id": [
+        "http://hdl.loc.gov/loc.mss/ms000001.mss30189a.0882800"
+      ],
+      "format": "mixed material",
+      "genre": [
+        "Manuscripts"
+      ],
+      "language": [
+        "eng"
+      ],
+      "notes": [
+        "Report of meeting with Gov. Pickens"
+      ],
+      "repository": "Manuscript Division",
+      "rights": "No known restrictions on use or reproduction.",
+      "source_collection": "Abraham Lincoln Papers at the Library of Congress",
+      "subjects": [
+        "United States--History--Civil War, 1861-1865.",
+        "United States--Politics and government--1861-1865.",
+        "Presidents--United States.",
+        "Manuscripts"
+      ],
+      "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "mime_type": [
+      "text/xml",
+      "image/jpeg",
+      "image/jp2",
+      "application/xml",
+      "image/tiff",
+      "application/pdf"
+    ],
+    "notes": [
+      "Report of meeting with Gov. Pickens"
+    ],
+    "online_format": [
+      "online text",
+      "image",
+      "pdf"
+    ],
+    "original_format": [
+      "manuscript/mixed material"
+    ],
+    "other_formats": [],
+    "partof": [
+      {
+        "count": 19114,
+        "title": "abraham lincoln papers at the library of congress: series 1. general correspondence. 1833-1916",
+        "url": "https://www.loc.gov/search/?fa=partof:abraham+lincoln+papers+at+the+library+of+congress:+series+1.+general+correspondence.+1833-1916&fo=json"
+      },
+      {
+        "count": 20206,
+        "title": "abraham lincoln papers at the library of congress",
+        "url": "https://www.loc.gov/collections/abraham-lincoln-papers/?fo=json"
+      },
+      {
+        "count": 170336,
+        "title": "manuscript division",
+        "url": "https://www.loc.gov/search/?fa=partof:manuscript+division&fo=json"
+      }
+    ],
+    "repository": [
+      "Manuscript Division"
+    ],
+    "resources": [
+      {
+        "files": 12,
+        "fulltext_file": "https://tile.loc.gov/storage-services/service/mss/mal/088/0882800/0882800.xml",
+        "image": "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:6.25/0/default.jpg",
+        "pdf": "https://tile.loc.gov/storage-services/service/mss/mal/088/0882800/0882800.pdf",
+        "url": "https://www.loc.gov/resource/mal.0882800/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress&rsquo;s digital scans of the papers of Abraham Lincoln are  in the public domain.</p>\r\n<p>Credit Line: Library of Congress, Manuscript Division, Abraham Lincoln  Papers.</p>\r\n<p>More about <a href=\"/legal/\">Copyright and other  Restrictions</a></p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing  Primary Sources</a>.</p>\r\n"
+    ],
+    "score": 19.300514,
+    "shard": "00",
+    "shelf_id": "series: Series 1. General Correspondence. 1833-1916",
+    "source_collection": "Abraham Lincoln Papers at the Library of Congress",
+    "subject": [
+      "civil war",
+      "manuscripts",
+      "history",
+      "politics and government",
+      "united states",
+      "presidents"
+    ],
+    "subject_headings": [
+      "United States--History--Civil War, 1861-1865",
+      "United States--Politics and government--1861-1865",
+      "Presidents--United States",
+      "Manuscripts"
+    ],
+    "subjects": [
+      {
+        "civil war": "https://www.loc.gov/search/?fa=subject:civil+war&fo=json"
+      },
+      {
+        "history": "https://www.loc.gov/search/?fa=subject:history&fo=json"
+      },
+      {
+        "manuscripts": "https://www.loc.gov/search/?fa=subject:manuscripts&fo=json"
+      },
+      {
+        "politics and government": "https://www.loc.gov/search/?fa=subject:politics+and+government&fo=json"
+      },
+      {
+        "presidents": "https://www.loc.gov/search/?fa=subject:presidents&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "timestamp": "2022-04-23T05:26:29.420Z",
+    "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)",
+    "type": [
+      "manuscript/mixed material"
+    ],
+    "url": "https://www.loc.gov/item/mal0882800/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal2459400/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.2459400",
+        "http://www.loc.gov/resource/mal.2459400/",
+        "http://www.loc.gov/item/mal.2459400/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1863-06-01",
+      "dates": [
+        "1863-06"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T07:56:32.838Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal2459400/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:245:2459400:001/full/pct:6.25/0/default.jpg#h=492&w=319",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:245:2459400:001/full/pct:12.5/0/default.jpg#h=985&w=639",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:245:2459400:001/full/pct:25/0/default.jpg#h=1970&w=1279",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:245:2459400:001/full/pct:50/0/default.jpg#h=3941&w=2559",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:245:2459400:001/full/pct:100/0/default.jpg#h=7882&w=5118"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 1. general correspondence. 1833-1916"
+      ],
+      "score": 17.731201,
+      "shelf_id": "series: Series 1. General Correspondence. 1833-1916",
+      "subject": [
+        "civil war",
+        "manuscripts",
+        "history",
+        "politics and government",
+        "united states",
+        "presidents"
+      ],
+      "timestamp": "2022-04-23T06:07:17.085Z",
+      "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Mark W. Delahay to Abraham Lincoln, [June-July 1863] (Defends conduct of General Blunt)",
+      "url": "https://www.loc.gov/item/mal2459400/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal2460000/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.2460000",
+        "http://www.loc.gov/resource/mal.2460000/",
+        "http://www.loc.gov/item/mal.2460000/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1862-11-01",
+      "dates": [
+        "1862-11"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T07:56:32.838Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal2460000/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460000:001/full/pct:6.25/0/default.jpg#h=392&w=309",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460000:001/full/pct:12.5/0/default.jpg#h=785&w=618",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460000:001/full/pct:25/0/default.jpg#h=1571&w=1237",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460000:001/full/pct:50/0/default.jpg#h=3142&w=2474",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460000:001/full/pct:100/0/default.jpg#h=6285&w=4949"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 1. general correspondence. 1833-1916"
+      ],
+      "score": 17.731201,
+      "shelf_id": "series: Series 1. General Correspondence. 1833-1916",
+      "subject": [
+        "civil war",
+        "manuscripts",
+        "history",
+        "politics and government",
+        "united states",
+        "presidents"
+      ],
+      "timestamp": "2022-04-23T06:07:17.085Z",
+      "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Francis P. Blair, Sr. to Abraham Lincoln, [November 1862] (Troops for Frank Blair's command)",
+      "url": "https://www.loc.gov/item/mal2460000/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal2460200/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.2460200",
+        "http://www.loc.gov/resource/mal.2460200/",
+        "http://www.loc.gov/item/mal.2460200/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1863-07-01",
+      "dates": [
+        "1863-07-01"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T07:56:32.838Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal2460200/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460200:001/full/pct:6.25/0/default.jpg#h=398&w=307",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460200:001/full/pct:12.5/0/default.jpg#h=796&w=614",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460200:001/full/pct:25/0/default.jpg#h=1592&w=1228",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460200:001/full/pct:50/0/default.jpg#h=3184&w=2457",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460200:001/full/pct:100/0/default.jpg#h=6368&w=4914"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/plain",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "online text",
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 1. general correspondence. 1833-1916"
+      ],
+      "score": 17.731201,
+      "shelf_id": "series: Series 1. General Correspondence. 1833-1916",
+      "subject": [
+        "civil war",
+        "manuscripts",
+        "history",
+        "politics and government",
+        "united states",
+        "presidents"
+      ],
+      "timestamp": "2022-04-23T06:07:17.085Z",
+      "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Hinton L. Lloyd to Abraham Lincoln, Wednesday, July 01, 1863 (Sends resolutions of Hudson River Baptist Association)",
+      "url": "https://www.loc.gov/item/mal2460200/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal2460400/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.2460400",
+        "http://www.loc.gov/resource/mal.2460400/",
+        "http://www.loc.gov/item/mal.2460400/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1863-07-01",
+      "dates": [
+        "1863-07-01"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T07:56:32.838Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal2460400/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460400:001/full/pct:6.25/0/default.jpg#h=389&w=321",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460400:001/full/pct:12.5/0/default.jpg#h=778&w=643",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460400:001/full/pct:25/0/default.jpg#h=1557&w=1287",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460400:001/full/pct:50/0/default.jpg#h=3115&w=2574",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460400:001/full/pct:100/0/default.jpg#h=6231&w=5149"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 1. general correspondence. 1833-1916"
+      ],
+      "score": 17.731201,
+      "shelf_id": "series: Series 1. General Correspondence. 1833-1916",
+      "subject": [
+        "civil war",
+        "manuscripts",
+        "history",
+        "politics and government",
+        "united states",
+        "presidents"
+      ],
+      "timestamp": "2022-04-23T06:07:17.085Z",
+      "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Orville H. Browning to Abraham Lincoln, Wednesday, July 01, 1863 (Writes on behalf of Cuthbert Bullitt)",
+      "url": "https://www.loc.gov/item/mal2460400/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal2460600/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.2460600",
+        "http://www.loc.gov/resource/mal.2460600/",
+        "http://www.loc.gov/item/mal.2460600/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1863-07-01",
+      "dates": [
+        "1863-07-01"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T07:56:32.838Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal2460600/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460600:001/full/pct:6.25/0/default.jpg#h=389&w=307",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460600:001/full/pct:12.5/0/default.jpg#h=778&w=614",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460600:001/full/pct:25/0/default.jpg#h=1556&w=1229",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460600:001/full/pct:50/0/default.jpg#h=3112&w=2459",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2460600:001/full/pct:100/0/default.jpg#h=6224&w=4919"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 1. general correspondence. 1833-1916"
+      ],
+      "score": 17.731201,
+      "shelf_id": "series: Series 1. General Correspondence. 1833-1916",
+      "subject": [
+        "civil war",
+        "manuscripts",
+        "history",
+        "politics and government",
+        "united states",
+        "presidents"
+      ],
+      "timestamp": "2022-04-23T06:07:17.085Z",
+      "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Samuel R. Curtis to Richard McAllister, Wednesday, July 01, 1863 (Defends his conduct in purchasing cotton)",
+      "url": "https://www.loc.gov/item/mal2460600/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal2461400/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.2461400",
+        "http://www.loc.gov/resource/mal.2461400/",
+        "http://www.loc.gov/item/mal.2461400/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1863-07-01",
+      "dates": [
+        "1863-07-01"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T07:56:32.838Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal2461400/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2461400:001/full/pct:6.25/0/default.jpg#h=375&w=292",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2461400:001/full/pct:12.5/0/default.jpg#h=750&w=584",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2461400:001/full/pct:25/0/default.jpg#h=1500&w=1169",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2461400:001/full/pct:50/0/default.jpg#h=3000&w=2339",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:246:2461400:001/full/pct:100/0/default.jpg#h=6000&w=4678"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 1. general correspondence. 1833-1916"
+      ],
+      "score": 17.731201,
+      "shelf_id": "series: Series 1. General Correspondence. 1833-1916",
+      "subject": [
+        "civil war",
+        "manuscripts",
+        "history",
+        "politics and government",
+        "united states",
+        "presidents"
+      ],
+      "timestamp": "2022-04-23T06:07:17.085Z",
+      "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Alexander K. McClure to Abraham Lincoln, Wednesday, July 01, 1863 (Writes in favor of giving McClellan a command in Pennsylvania)",
+      "url": "https://www.loc.gov/item/mal2461400/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "mal",
+      "abraham-lincoln-papers",
+      "ndnp/wvu",
+      "west-virginia-university-awardee"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "mal.0882800",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7290871143341064,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/mal.0882800/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/mal.0882800/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1764803293.9779956,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 395,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:6.25/0/default.jpg",
+      "width": 311
+    },
+    {
+      "height": 791,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:12.5/0/default.jpg",
+      "width": 622
+    },
+    {
+      "height": 1583,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:25/0/default.jpg",
+      "width": 1245
+    },
+    {
+      "height": 3167,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:50/0/default.jpg",
+      "width": 2490
+    },
+    {
+      "height": 6334,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:100/0/default.jpg",
+      "width": 4980
+    },
+    {
+      "height": 6334,
+      "info": "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 5949231,
+      "url": "https://tile.loc.gov/storage-services/service/mss/mal/088/0882800/001.jp2",
+      "width": 4980
+    },
+    {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 94652800,
+      "url": "https://tile.loc.gov/storage-services/master/mss/mal/088/0882800/001.tif",
+      "width": null
+    },
+    {
+      "fulltext": "<ammemxml><printpgno><br /></printpgno>          <body> <div> <p> <span class='underscore'>From Robert S. Chew to Abraham Lincoln<anchor>1</anchor>, April 8, 1861</span> </p> <p> <note>1 Robert S. Chew was a clerk in the State Department.</note> </p> <p>Charleston S. C. April 8th 1861</p> <p>To The President</p> <p>Under the foregoing orders I left Washington at 6 P.M. Saturday April 6th, 1861, in company with Capt. Theodore Talbot, U. S. Army, and arrived at Charleston, S. C. on Monday at the same hour.  Finding that Fort Sumter had neither been surrendered, evacuated nor attacked, I immediately thro' Capt. Talbot, requested an interview with Governor Pickens, which was at once accorded to me, and I then read to him the portion of said orders in italics, and delivered to him the copy of the same which was furnished to me for that purpose, in the presence of Capt Talbot.  Govr. Pickens received the Copy and said he would submit it to General Beauregard, he having, since the ratification of the Constitution of the Confederate States by South Carolina, been placed in charge of the Military operations in this vicinity\u2014  Genl. Beauregard was accordingly sent for, and the Governor read the paper to him.</p> <p>In reply to a remark made by Governor Pickens in reference to an answer I informed him that I was not authorised to receive any communication from him in reply\u2014</p> <p>Respectfully submitted</p> <p>R. S. Chew</p> <p>War Department</p> <p>Washington, April 6, 1861.<anchor>2</anchor> </p> <p> <note>2 The instructions to Chew and the message he carried to Governor Pickens were drafted by Lincoln.</note> </p> <p>Sir:</p> <p>You will proceed directly to Charleston, South Carolina, and if, on your arrival there, the flag of the United States shall by flying over Fort Sumpter, and the Fort shall not have been attacked, you will procure an interview with Gov Pickens, and read to him a follows:</p> <p>\u201cI am directed by the President of the United States to notify you to expect an attempt will be made to supply Fort Sumpter with provisions only, and that, if such attempt be not resisted, no effort to throw in men, arms, or ammunition, will be made, without further notice, or in case of an attack upon the Fort.\u201d</p> <p>After you shall have read this to Governor Pickens, deliver to him the copy of it herein enclosed, and retain this letter yourself.</p> <p>But if, on your arrival at Charleston, you shall ascertain that Fort Sumpter shall have been already evacuated, or surrendered, by the United States force, or shall have been attacked by an opposing force, you will seek no interview with Gov Pickens, but return here forthwith.</p> <p>Respectfully</p> <p>Simon Cameron</p> <p>Secy of War</p> <p>I am directed by the President of the United States to notify you to expect an attempt will be made to supply Fort Sumpter with provisions only, and that, if such attempt be not resisted, no effort to throw in men, arms, or ammunition, will be made, without further notice, or in case of an attack upon the Fort</p> </div>         </ammemxml>",
+      "mimetype": "text/xml",
+      "use": "text"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "first": null,
+    "from": 1,
+    "last": "https://www.loc.gov/resource/mal.0882800/?fo=json&sp=4",
+    "next": "https://www.loc.gov/resource/mal.0882800/?fo=json&sp=2",
+    "of": 12,
+    "page_list": [
+      {
+        "number": 1,
+        "url": null
+      },
+      {
+        "number": 2,
+        "url": "https://www.loc.gov/resource/mal.0882800/?fo=json&sp=2"
+      },
+      {
+        "number": 3,
+        "url": "https://www.loc.gov/resource/mal.0882800/?fo=json&sp=3"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/mal.0882800/?fo=json&sp=4"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": null,
+    "results": "1 - 1",
+    "to": 1,
+    "total": 12
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85059834/1862-09-29/ed-1/",
+        "http://www.loc.gov/resource/sn85059834/1862-09-29/ed-1/"
+      ],
+      "batch": [
+        "wvu_gorn_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1862-09-29",
+      "dates": [
+        "1862-09-29"
+      ],
+      "description": [
+        "Charleston, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:01:43.988Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85059834/1862-09-29/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862092901:0007/full/pct:6.25/0/default.jpg#h=294&w=221",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862092901:0007/full/pct:12.5/0/default.jpg#h=588&w=442",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862092901:0007/full/pct:25/0/default.jpg#h=1177&w=885"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "west virginia",
+        "charleston",
+        "kanawha",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn85059834",
+        "1",
+        "00271767663"
+      ],
+      "numeric_shelf_id": 186209291,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the guerilla (charleston, va. [w. va.]) 1862-186?",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn85059834, 1862-09-29, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "civil war",
+        "history",
+        "united states",
+        "newspapers",
+        "charleston (w. va.)",
+        "kanawha",
+        "american civil war",
+        "charleston",
+        "west virginia"
+      ],
+      "timestamp": "2025-07-16T18:56:23.391Z",
+      "title": "The guerilla (Charleston, Va. [W. Va.]), September 29, 1862",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85059834/1862-09-29/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85059834/1862-10-03/ed-1/",
+        "http://www.loc.gov/resource/sn85059834/1862-10-03/ed-1/"
+      ],
+      "batch": [
+        "wvu_gorn_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1862-10-03",
+      "dates": [
+        "1862-10-03"
+      ],
+      "description": [
+        "Charleston, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:01:43.988Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85059834/1862-10-03/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862100301:0011/full/pct:12.5/0/default.jpg#h=486&w=384",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862100301:0011/full/pct:25/0/default.jpg#h=972&w=769"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "west virginia",
+        "charleston",
+        "kanawha",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn85059834",
+        "1",
+        "00271767663"
+      ],
+      "numeric_shelf_id": 186210031,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the guerilla (charleston, va. [w. va.]) 1862-186?",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn85059834, 1862-10-03, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "civil war",
+        "history",
+        "united states",
+        "newspapers",
+        "charleston (w. va.)",
+        "kanawha",
+        "american civil war",
+        "charleston",
+        "west virginia"
+      ],
+      "timestamp": "2025-07-16T18:56:23.391Z",
+      "title": "The guerilla (Charleston, Va. [W. Va.]), October 3, 1862",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85059834/1862-10-03/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85059536/1863-03-24/ed-1/",
+        "http://www.loc.gov/resource/sn85059536/1863-03-24/ed-1/"
+      ],
+      "batch": [
+        "wvu_irwin_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1863-03-24",
+      "dates": [
+        "1863-03-24"
+      ],
+      "description": [
+        "Martinsburg, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:03:00.564Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85059536/1863-03-24/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn85059536:print:1863032401:0001/full/pct:6.25/0/default.jpg#h=383&w=260",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn85059536:print:1863032401:0001/full/pct:12.5/0/default.jpg#h=767&w=520"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "martinsburg",
+        "west virginia",
+        "united states",
+        "berkeley"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn85059536",
+        "1"
+      ],
+      "numeric_shelf_id": 186303241,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "weekly gazette (martinsburg, va. [w. va.]) 1863-186?"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn85059536, 1863-03-24, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "martinsburg",
+        "civil war",
+        "history",
+        "united states",
+        "berkeley",
+        "martinsburg (w. va.)",
+        "newspapers",
+        "american civil war",
+        "west virginia"
+      ],
+      "timestamp": "2025-07-16T22:45:40.920Z",
+      "title": "Weekly gazette (Martinsburg, Va. [W. Va.]), March 24, 1863",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85059536/1863-03-24/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84026772/1861-07-11/ed-1/",
+        "http://www.loc.gov/resource/sn84026772/1861-07-11/ed-1/"
+      ],
+      "batch": [
+        "wvu_kuwait_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1861-07-11",
+      "dates": [
+        "1861-07-11"
+      ],
+      "description": [
+        "Martinsburg, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:04:39.183Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84026772/1861-07-11/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861071101:0023/full/pct:6.25/0/default.jpg#h=315&w=216",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861071101:0023/full/pct:12.5/0/default.jpg#h=631&w=433"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "martinsburg",
+        "west virginia",
+        "united states",
+        "berkeley"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn84026772",
+        "00202192476",
+        "1"
+      ],
+      "numeric_shelf_id": 186107111,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the american union (martinsburg, va. [w. va.]) 1861-1861",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "irregular"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn84026772, 1861-07-11, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "martinsburg",
+        "civil war",
+        "history",
+        "united states",
+        "berkeley",
+        "martinsburg (w. va.)",
+        "newspapers",
+        "american civil war",
+        "west virginia"
+      ],
+      "timestamp": "2025-07-17T05:04:15.585Z",
+      "title": "The American union (Martinsburg, Va. [W. Va.]), July 11, 1861",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84026772/1861-07-11/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84026772/1861-07-06/ed-1/",
+        "http://www.loc.gov/resource/sn84026772/1861-07-06/ed-1/"
+      ],
+      "batch": [
+        "wvu_kuwait_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1861-07-06",
+      "dates": [
+        "1861-07-06"
+      ],
+      "description": [
+        "Martinsburg, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:04:39.183Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84026772/1861-07-06/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070601:0015/full/pct:6.25/0/default.jpg#h=264&w=172",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070601:0015/full/pct:12.5/0/default.jpg#h=529&w=345",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070601:0015/full/pct:25/0/default.jpg#h=1059&w=691"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "martinsburg",
+        "west virginia",
+        "united states",
+        "berkeley"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn84026772",
+        "00202192476",
+        "1"
+      ],
+      "numeric_shelf_id": 186107061,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the american union (martinsburg, va. [w. va.]) 1861-1861",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "irregular"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn84026772, 1861-07-06, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "martinsburg",
+        "civil war",
+        "history",
+        "united states",
+        "berkeley",
+        "martinsburg (w. va.)",
+        "newspapers",
+        "american civil war",
+        "west virginia"
+      ],
+      "timestamp": "2025-07-17T05:04:15.585Z",
+      "title": "The American union (Martinsburg, Va. [W. Va.]), July 6, 1861",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84026772/1861-07-06/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84026772/1861-07-09/ed-1/",
+        "http://www.loc.gov/resource/sn84026772/1861-07-09/ed-1/"
+      ],
+      "batch": [
+        "wvu_kuwait_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1861-07-09",
+      "dates": [
+        "1861-07-09"
+      ],
+      "description": [
+        "Martinsburg, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:04:39.183Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84026772/1861-07-09/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070901:0019/full/pct:6.25/0/default.jpg#h=313&w=215",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070901:0019/full/pct:12.5/0/default.jpg#h=627&w=431"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "martinsburg",
+        "west virginia",
+        "united states",
+        "berkeley"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn84026772",
+        "00202192476",
+        "1"
+      ],
+      "numeric_shelf_id": 186107091,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the american union (martinsburg, va. [w. va.]) 1861-1861",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "irregular"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn84026772, 1861-07-09, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "martinsburg",
+        "civil war",
+        "history",
+        "united states",
+        "berkeley",
+        "martinsburg (w. va.)",
+        "newspapers",
+        "american civil war",
+        "west virginia"
+      ],
+      "timestamp": "2025-07-17T05:04:15.585Z",
+      "title": "The American union (Martinsburg, Va. [W. Va.]), July 9, 1861",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84026772/1861-07-09/ed-1/"
+    }
+  ],
+  "resource": {
+    "caption": "",
+    "fulltext_attribution": "Transcribed and annotated by the Lincoln Studies Center, Knox College. Galesburg, Illinois.",
+    "fulltext_file": "https://tile.loc.gov/storage-services/service/mss/mal/088/0882800/0882800.xml",
+    "image": "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:6.25/0/default.jpg",
+    "pdf": "https://tile.loc.gov/storage-services/service/mss/mal/088/0882800/0882800.pdf",
+    "segment_count": 12,
+    "url": "https://www.loc.gov/resource/mal.0882800/"
+  },
+  "resources": [
+    {
+      "caption": "",
+      "fulltext_attribution": "Transcribed and annotated by the Lincoln Studies Center, Knox College. Galesburg, Illinois.",
+      "fulltext_file": "https://tile.loc.gov/storage-services/service/mss/mal/088/0882800/0882800.xml",
+      "image": "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:6.25/0/default.jpg",
+      "pdf": "https://tile.loc.gov/storage-services/service/mss/mal/088/0882800/0882800.pdf",
+      "segment_count": 12,
+      "url": "https://www.loc.gov/resource/mal.0882800/"
+    }
+  ],
+  "segments": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/mal.0882800/?sp=1"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1861-04-08",
+      "dates": [
+        "1861-04-08"
+      ],
+      "description": [
+        "From Robert S. Chew to Abraham Lincoln1, April 8, 1861 1 Robert S. Chew was a clerk in the State Department. Charleston S. C. April 8th 1861 To The President Under the foregoing orders I left Washington at 6 P.M. Saturday April 6th, 1861, in company with Capt. Theodore Talbot, U. S. Army, and arrived at Charleston, S. C. on Monday at the same hour. Finding that Fort Sumter had neither been surrendered, evacuated nor attacked, I immediately thro' Capt. Talbot, requested an interview with Governor Pickens, which was at once accorded to me, and I then read to him the portion of said orders in italics, and delivered to him the copy of the same which was furnished to me for that purpose, in the presence of Capt Talbot. Govr. Pickens received the Copy and said he would submit it to General Beauregard, he having, since the ratification of the Constitution of the Confederate States by South Carolina, been placed in charge of the Military operations in this vicinity\u2014 Genl. Beauregard was accordingly sent for, and the Governor read the paper to him. In reply to a remark made by Governor Pickens in reference to an answer I informed"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T04:10:57.056Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/resource/mal.0882800/?sp=1",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:6.25/0/default.jpg#h=395&w=311",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:12.5/0/default.jpg#h=791&w=622",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:25/0/default.jpg#h=1583&w=1245",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:50/0/default.jpg#h=3167&w=2490",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:088:0882800:001/full/pct:100/0/default.jpg#h=6334&w=4980"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jp2",
+        "image/tiff",
+        "text/xml"
+      ],
+      "number": [
+        "0000000001"
+      ],
+      "number_page": [
+        "0000000001"
+      ],
+      "online_format": [
+        "image",
+        "online text"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 1. general correspondence. 1833-1916"
+      ],
+      "resources": [
+        {
+          "files": 1,
+          "url": "https://www.loc.gov/resource/mal.0882800/?sp=1"
+        }
+      ],
+      "segmentof": [
+        "http://www.loc.gov/resource/mal.0882800/"
+      ],
+      "shelf_id": "01",
+      "subject": [
+        "civil war",
+        "manuscripts",
+        "history",
+        "politics and government",
+        "united states",
+        "presidents"
+      ],
+      "timestamp": "2022-04-23T05:25:57.330Z",
+      "title": "Image 1 of Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens) ",
+      "type": [
+        "segment"
+      ],
+      "url": "https://www.loc.gov/resource/mal.0882800/?sp=1"
+    }
+  ],
+  "timestamp": 1764803294707,
+  "type": "zoom",
+  "viewer_pagination": {
+    "current": 1,
+    "first": null,
+    "from": 1,
+    "last": "https://www.loc.gov/resource/mal.0882800/?fo=json&sp=4",
+    "next": "https://www.loc.gov/resource/mal.0882800/?fo=json&sp=2",
+    "of": 12,
+    "page_list": [
+      {
+        "number": 1,
+        "url": null
+      },
+      {
+        "number": 2,
+        "url": "https://www.loc.gov/resource/mal.0882800/?fo=json&sp=2"
+      },
+      {
+        "number": 3,
+        "url": "https://www.loc.gov/resource/mal.0882800/?fo=json&sp=3"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/mal.0882800/?fo=json&sp=4"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": null,
+    "results": "1 - 1",
+    "to": 1,
+    "total": 12
+  },
+  "views": {
+    "brief": "https://www.loc.gov/resource/mal.0882800/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/mal.0882800/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/mal.0882800/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/mal.0882800/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/mal.0882800/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/mal.0882800/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/mal.0882800/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/mal.0882800/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/mal.0882800/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/mal.0882800/?fo=json&st=text"
+  }
+}

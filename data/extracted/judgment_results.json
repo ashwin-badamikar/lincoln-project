@@ -1,0 +1,657 @@
+[
+  {
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "lincoln_source": "Letter about Election Night 1860",
+    "other_source": "Abraham Lincoln: a History — Volume 01",
+    "other_author": "John G. Nicolay",
+    "consistency_score": 90,
+    "contradictions": [
+      {
+        "type": "Omission",
+        "lincoln_claim": "The author went to the telegraph office at nine o'clock in the evening.",
+        "other_claim": "Not mentioned",
+        "explanation": "Nicolay's account does not include specific details of Lincoln's actions on election night.",
+        "severity": "Low"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "The first dispatch received was from Decatur, Illinois, showing a gain of 40 votes.",
+        "other_claim": "Not mentioned",
+        "explanation": "Nicolay's account omits specific details about the election returns.",
+        "severity": "Low"
+      }
+    ],
+    "alignments": [
+      "The election took place on November 6, 1860.",
+      "Abraham Lincoln was elected as the 16th President of the United States."
+    ],
+    "reasoning": "The accounts are largely consistent, with both agreeing on the key facts of the election date and Lincoln's election as President. The differences are mainly due to Nicolay's broader political focus compared to Lincoln's personal recounting of election night events. The omissions are minor and do not significantly impact the overall consistency.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "second_inaugural_address",
+    "event_name": "Second Inaugural Address",
+    "lincoln_source": "Second Inaugural Address",
+    "other_source": "Abraham Lincoln: a History — Volume 01",
+    "other_author": "John G. Nicolay",
+    "consistency_score": 85,
+    "contradictions": [
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Lincoln expresses a desire to finish the work of binding up the nation's wounds and caring for veterans and their families.",
+        "other_claim": "Not mentioned",
+        "explanation": "Nicolay does not mention Lincoln's focus on national healing and veterans, which is a significant part of Lincoln's own account.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln's main argument was to vindicate and restore the policy of the fathers of the country regarding the restriction of slavery.",
+        "explanation": "Lincoln does not explicitly state this focus on slavery in his account, while Nicolay emphasizes it.",
+        "severity": "Medium"
+      }
+    ],
+    "alignments": [
+      "The address was delivered on March 4, 1865.",
+      "It was Lincoln's second inaugural address.",
+      "The speech is noted for its brevity and significance."
+    ],
+    "reasoning": "Overall, the accounts are consistent in terms of factual details, such as the date and nature of the event. However, there are interpretive differences regarding the focus and significance of the speech, particularly concerning the emphasis on slavery and national healing. These differences result in a moderate deduction in the consistency score.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "lincoln_source": "Letter about Election Night 1860",
+    "other_source": "The Life of Abraham Lincoln",
+    "other_author": "Henry Ketcham",
+    "consistency_score": 60,
+    "contradictions": [
+      {
+        "type": "Factual",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln received 180 electoral votes.",
+        "explanation": "Ketcham provides a specific number of electoral votes, which is not mentioned by Lincoln, and there is a discrepancy within Ketcham's account itself.",
+        "severity": "High"
+      },
+      {
+        "type": "Factual",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "The electoral vote was officially counted on February 13, 1861.",
+        "explanation": "Ketcham mentions the official counting date, which is not addressed by Lincoln.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln's nomination was a result of debates with Stephen A. Douglas and the Democratic split.",
+        "explanation": "Ketcham provides an interpretation of the motivations behind Lincoln's nomination that is not discussed by Lincoln.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "Returns began to pour in from all quarters.",
+        "other_claim": "Not mentioned",
+        "explanation": "Lincoln's account of the election night details is not covered by Ketcham.",
+        "severity": "Low"
+      }
+    ],
+    "alignments": [
+      "Election date: November 6, 1860",
+      "Lincoln elected as the 16th President",
+      "Lincoln was the Republican candidate"
+    ],
+    "reasoning": "The accounts align on key facts about the election date and Lincoln's victory, but there are significant discrepancies in the details of electoral votes and the broader context of Lincoln's nomination and election. These contradictions and omissions result in a moderate consistency score.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "fort_sumter_decision",
+    "event_name": "Fort Sumter Decision",
+    "lincoln_source": "Fort Sumter Decision",
+    "other_source": "The Life of Abraham Lincoln",
+    "other_author": "Henry Ketcham",
+    "consistency_score": 85,
+    "contradictions": [
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "The Fort cannot be permanently held without a large increase of the present garrison.",
+        "other_claim": "Lincoln directed General Scott to strengthen and hold the forts, which included Fort Sumter.",
+        "explanation": "Lincoln's account suggests a strategic concern about the feasibility of holding the fort without significant reinforcements, while Ketcham's account implies a more straightforward directive to hold the fort.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "The attempt to supply provisions would provoke an attack and so involve a war.",
+        "other_claim": "Not mentioned",
+        "explanation": "Ketcham does not mention Lincoln's concern about the potential for provoking war by supplying the fort.",
+        "severity": "Low"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "Withdrawal would have political effects upon the public mind.",
+        "other_claim": "Not mentioned",
+        "explanation": "Ketcham does not address Lincoln's concern about the political implications of withdrawing from Fort Sumter.",
+        "severity": "Low"
+      }
+    ],
+    "alignments": [
+      "The question of holding Fort Sumter involved the question of war.",
+      "Lincoln decided to send provisions to Fort Sumter as a non-hostile act.",
+      "The fall of Fort Sumter led to a call for 75,000 volunteers."
+    ],
+    "reasoning": "Overall, the accounts are largely consistent in terms of the factual sequence of events and the strategic importance of Fort Sumter. However, there are interpretive differences regarding Lincoln's motivations and emotional state, as well as omissions in Ketcham's account of some of Lincoln's specific concerns. These differences slightly reduce the consistency score.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "lincoln_source": "Gettysburg Address (Nicolay Copy)",
+    "other_source": "The Life of Abraham Lincoln",
+    "other_author": "Henry Ketcham",
+    "consistency_score": 85,
+    "contradictions": [
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Lincoln did not mention the speech being initially regarded as a failure.",
+        "other_claim": "Ketcham states the speech was initially regarded as a failure by Lincoln and others.",
+        "explanation": "This is an interpretive difference regarding the initial reception of the speech.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Lincoln did not describe the speech as poetic.",
+        "other_claim": "Ketcham describes the speech as prose in form but poetic in effect.",
+        "explanation": "This is an interpretive difference in the description of the speech's style.",
+        "severity": "Low"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "Lincoln emphasized a new birth of freedom for the nation.",
+        "other_claim": "Not mentioned",
+        "explanation": "Ketcham's account does not explicitly mention this aspect of Lincoln's speech.",
+        "severity": "Low"
+      }
+    ],
+    "alignments": [
+      "The Gettysburg Address was delivered on November 19, 1863.",
+      "The address was part of a dedication ceremony.",
+      "Edward Everett was the main orator of the occasion.",
+      "The speech was around three hundred words long."
+    ],
+    "reasoning": "The accounts are largely consistent in factual details but differ in interpretive aspects and certain omissions. The overall consistency is high, with minor discrepancies in interpretation and emphasis.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "second_inaugural_address",
+    "event_name": "Second Inaugural Address",
+    "lincoln_source": "Second Inaugural Address",
+    "other_source": "The Life of Abraham Lincoln",
+    "other_author": "Henry Ketcham",
+    "consistency_score": 75,
+    "contradictions": [
+      {
+        "type": "Factual",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln was sworn into office by Chief Justice Taney",
+        "explanation": "Chief Justice Taney had died in 1864, so he could not have sworn Lincoln in.",
+        "severity": "High"
+      },
+      {
+        "type": "Factual",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln expressed a desire to take the oath before March 4, 1865",
+        "explanation": "Lincoln does not mention any desire to take the oath before March 4.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Lincoln expresses a desire to finish the work of binding up the nation's wounds",
+        "other_claim": "Lincoln was in the 'garden of Gethsemane' and his 'cup of bitterness is full to overflowing'",
+        "explanation": "Ketcham attributes a more dramatic and emotional state to Lincoln than Lincoln's own words suggest.",
+        "severity": "Medium"
+      }
+    ],
+    "alignments": [
+      "Lincoln's second inaugural address was delivered on March 4, 1865.",
+      "The address expressed a hope for peace and healing after the Civil War.",
+      "The address contained the phrase 'with malice toward none, with charity for all.'"
+    ],
+    "reasoning": "Overall, the accounts are mostly consistent regarding the date and key themes of Lincoln's second inaugural address. However, there are factual inaccuracies in Ketcham's account, particularly regarding who administered the oath, and interpretive differences in how Lincoln's emotional state is portrayed. These discrepancies result in a moderate deduction from the consistency score.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "lincoln_source": "Letter about Election Night 1860",
+    "other_source": "Abraham Lincoln, Volume II",
+    "other_author": "Jr. John T. Morse",
+    "consistency_score": 60,
+    "contradictions": [
+      {
+        "type": "Factual",
+        "lincoln_claim": "The author went to the telegraph office at nine o'clock in the evening.",
+        "other_claim": "Lincoln went to the War Department on election night.",
+        "explanation": "The two accounts differ on the location where Lincoln spent election night.",
+        "severity": "High"
+      },
+      {
+        "type": "Factual",
+        "lincoln_claim": "By midnight, Lincoln's victory was assured. The author went home.",
+        "other_claim": "Lincoln stayed until two o'clock at night, noting the returns.",
+        "explanation": "The accounts differ on the time Lincoln left to go home.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln expressed gratitude for the people's confidence but stated that his gratitude was free from any taint of personal triumph.",
+        "explanation": "Morse attributes a specific emotional state to Lincoln that is not mentioned in Lincoln's account.",
+        "severity": "Medium"
+      }
+    ],
+    "alignments": [
+      "The election occurred on November 6, 1860.",
+      "Abraham Lincoln was elected as the 16th President of the United States."
+    ],
+    "reasoning": "While both accounts agree on the date and outcome of the election, there are significant factual contradictions regarding the location and timing of events on election night. Additionally, Morse's account includes interpretive elements and details not present in Lincoln's account, leading to a moderate consistency score.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "fort_sumter_decision",
+    "event_name": "Fort Sumter Decision",
+    "lincoln_source": "Fort Sumter Decision",
+    "other_source": "Abraham Lincoln, Volume II",
+    "other_author": "Jr. John T. Morse",
+    "consistency_score": 85,
+    "contradictions": [
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "The Fort cannot be permanently held without a large increase of the present garrison.",
+        "other_claim": "Lincoln admits blame for failure regarding Fort Sumter.",
+        "explanation": "Morse attributes blame to Lincoln for the failure at Fort Sumter, while Lincoln's account focuses on strategic challenges.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "The attempt to supply provisions would provoke an attack and so involve a war.",
+        "other_claim": "Not mentioned",
+        "explanation": "Morse does not explicitly mention Lincoln's concern about the political effects of withdrawal.",
+        "severity": "Low"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Beauregard commands at Charleston and requests the surrender of Sumter.",
+        "explanation": "Lincoln's account does not mention specific individuals like Beauregard.",
+        "severity": "Low"
+      }
+    ],
+    "alignments": [
+      "The necessity of maintaining visible possession of Federal property.",
+      "The question of holding the Fort involves the question of war.",
+      "Lincoln asks advice of cabinet regarding Fort Sumter.",
+      "Lincoln announces intention to provision Sumter."
+    ],
+    "reasoning": "Overall, the accounts are largely consistent in terms of the strategic importance of Fort Sumter and the potential for conflict. However, Morse's account provides more detail on internal disagreements and attributes blame to Lincoln, which is not present in Lincoln's own account. These differences result in a moderate consistency score.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "lincoln_source": "Gettysburg Address (Nicolay Copy)",
+    "other_source": "Abraham Lincoln, Volume II",
+    "other_author": "Jr. John T. Morse",
+    "consistency_score": 90,
+    "contradictions": [
+      {
+        "type": "Omission",
+        "lincoln_claim": "Lincoln called for the nation to experience a new birth of freedom.",
+        "other_claim": "Not mentioned",
+        "explanation": "Morse's account does not mention Lincoln's call for a new birth of freedom, which is a significant theme in the address.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Edward Everett was to deliver the oration at the dedication ceremony.",
+        "explanation": "Lincoln's account does not mention Edward Everett's role in the ceremony, which provides context to the event.",
+        "severity": "Medium"
+      }
+    ],
+    "alignments": [
+      "The Gettysburg Address was delivered on November 19, 1863.",
+      "The address was given by President Abraham Lincoln.",
+      "The speech was made at the dedication of the Soldiers' National Cemetery.",
+      "Lincoln stated that the nation was engaged in a great civil war.",
+      "Lincoln emphasized the dedication of the living to the unfinished work of the soldiers.",
+      "Lincoln concluded with the idea that government of the people, by the people, for the people, shall not perish from the earth."
+    ],
+    "reasoning": "Overall, the accounts are highly consistent with each other, sharing the same factual details and thematic elements. The omissions are relatively minor and do not significantly detract from the overall alignment.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "second_inaugural_address",
+    "event_name": "Second Inaugural Address",
+    "lincoln_source": "Second Inaugural Address",
+    "other_source": "Abraham Lincoln, Volume II",
+    "other_author": "Jr. John T. Morse",
+    "consistency_score": 85,
+    "contradictions": [
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "The address included the phrase 'malice toward none.'",
+        "explanation": "Morse emphasizes a phrase that Lincoln does not explicitly mention in his account.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln's refusal to negotiate with Davis and insistence on complete submission.",
+        "explanation": "Morse interprets Lincoln's stance on negotiations, which is not directly addressed by Lincoln.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "One eighth of the whole population were colored slaves localized in the southern part of the Union.",
+        "explanation": "Morse includes demographic details not mentioned by Lincoln.",
+        "severity": "Low"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln returned to the White House after his inaugural address with less than five weeks of life remaining.",
+        "explanation": "Morse provides a detail about Lincoln's remaining time that Lincoln does not mention.",
+        "severity": "Low"
+      }
+    ],
+    "alignments": [
+      "The address was delivered on March 4, 1865.",
+      "Lincoln expressed a desire to bind up the nation's wounds and care for veterans and their families.",
+      "There was less occasion for an extended address than at his first inauguration.",
+      "The progress of arms was well known and reasonably satisfactory."
+    ],
+    "reasoning": "The accounts are largely consistent with each other, with some interpretive differences and omissions that slightly reduce the consistency score.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "lincoln_source": "Letter about Election Night 1860",
+    "other_source": "The Every-day Life of Abraham Lincoln",
+    "other_author": "Francis F. Browne",
+    "consistency_score": 90,
+    "contradictions": [
+      {
+        "type": "Omission",
+        "lincoln_claim": "Lincoln went to the telegraph office at nine o'clock in the evening.",
+        "other_claim": "Not mentioned",
+        "explanation": "Browne's account does not mention Lincoln's specific actions on election night.",
+        "severity": "Low"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "Lincoln received a dispatch from Decatur, Illinois, showing a gain of 40 votes.",
+        "other_claim": "Not mentioned",
+        "explanation": "Browne's account does not include specific details about the election returns Lincoln received.",
+        "severity": "Low"
+      }
+    ],
+    "alignments": [
+      "Lincoln was elected as the 16th President of the United States on November 6, 1860.",
+      "Lincoln felt the responsibility of his position immediately after the election."
+    ],
+    "reasoning": "Overall, the accounts are largely consistent, with the primary source focusing on Lincoln's personal experience and the secondary source providing a broader historical context. The differences are mainly omissions of specific details rather than direct contradictions, resulting in a high consistency score.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "fort_sumter_decision",
+    "event_name": "Fort Sumter Decision",
+    "lincoln_source": "Fort Sumter Decision",
+    "other_source": "The Every-day Life of Abraham Lincoln",
+    "other_author": "Francis F. Browne",
+    "consistency_score": 85,
+    "contradictions": [
+      {
+        "type": "Omission",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln wrote to E.B. Washburne on December 21, 1860, asking General Scott to be prepared to either hold or retake the forts.",
+        "explanation": "Lincoln's account does not mention this communication, which is a significant detail about his preparations.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "The attempt to supply provisions would provoke an attack and so involve a war.",
+        "other_claim": "Lincoln maintained a conciliatory policy toward the States in rebellion until the attack on Fort Sumter.",
+        "explanation": "Lincoln's account suggests a more proactive stance regarding the potential for war, while Browne's account suggests a more conciliatory approach.",
+        "severity": "Medium"
+      }
+    ],
+    "alignments": [
+      "Fort Sumter was held by Major Robert Anderson.",
+      "Fort Sumter was attacked.",
+      "The Civil War began with the decision regarding Fort Sumter.",
+      "Lincoln was aware that war was imminent between the North and the South.",
+      "There is a necessity of maintaining visible possession of Federal property."
+    ],
+    "reasoning": "Overall, the accounts are largely consistent with each other, sharing key facts about the situation at Fort Sumter and Lincoln's awareness of the impending conflict. However, there are some omissions and interpretive differences that slightly reduce the consistency score.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "lincoln_source": "Gettysburg Address (Nicolay Copy)",
+    "other_source": "The Every-day Life of Abraham Lincoln",
+    "other_author": "Francis F. Browne",
+    "consistency_score": 85,
+    "contradictions": [
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln's Gettysburg speech was rewritten many times before it met his approval.",
+        "explanation": "Browne suggests Lincoln was meticulous in preparing the speech, which is not mentioned by Lincoln himself.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln thought deeply about religion when he went to Gettysburg.",
+        "explanation": "Browne attributes a religious motivation to Lincoln, which is not mentioned by Lincoln.",
+        "severity": "Medium"
+      }
+    ],
+    "alignments": [
+      "The Gettysburg Address was delivered on November 19, 1863.",
+      "The address was given at the dedication of the Soldiers' National Cemetery.",
+      "Lincoln emphasized the dedication to the unfinished work of the soldiers.",
+      "Lincoln called for a new birth of freedom."
+    ],
+    "reasoning": "The accounts are largely consistent, with both agreeing on the key facts and themes of the Gettysburg Address. However, Browne's account includes interpretive elements about Lincoln's preparation and motivations that are not present in Lincoln's own words, leading to a slight reduction in the consistency score.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "second_inaugural_address",
+    "event_name": "Second Inaugural Address",
+    "lincoln_source": "Second Inaugural Address",
+    "other_source": "The Every-day Life of Abraham Lincoln",
+    "other_author": "Francis F. Browne",
+    "consistency_score": 85,
+    "contradictions": [
+      {
+        "type": "Factual",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "The oath of office was administered by Chief Justice Taney.",
+        "explanation": "Lincoln's account does not specify who administered the oath, while Browne's account does.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln's face had a care-worn look, yet he appeared cheerful.",
+        "explanation": "Browne's account provides an interpretation of Lincoln's emotional state not mentioned by Lincoln.",
+        "severity": "Low"
+      }
+    ],
+    "alignments": [
+      "The Second Inaugural Address was delivered on March 4, 1865.",
+      "It was Lincoln's second inauguration.",
+      "Lincoln expressed a desire to heal the nation's wounds.",
+      "The phrase 'with malice toward none, with charity for all' was included in the address."
+    ],
+    "reasoning": "Overall, the accounts are largely consistent, with some factual and interpretive differences. The main factual contradiction is the mention of Chief Justice Taney, which is not addressed by Lincoln. Interpretive differences are minor, and omissions do not significantly affect the overall consistency.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "election_night_1860",
+    "event_name": "Election Night 1860",
+    "lincoln_source": "Letter about Election Night 1860",
+    "other_source": "Abraham Lincoln",
+    "other_author": "Baron Godfrey Rathbone Benson Charnwood",
+    "consistency_score": 90,
+    "contradictions": [
+      {
+        "type": "Omission",
+        "lincoln_claim": "Returns began to pour in from all quarters, first dispatch from Decatur showing a gain of 40 votes.",
+        "other_claim": "Not mentioned",
+        "explanation": "Charnwood does not mention specific election night details like the gain of 40 votes from Decatur.",
+        "severity": "Low"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "Lincoln's election was greeted throughout the South with a howl of derision.",
+        "explanation": "Lincoln's account does not mention the reaction in the South or the broader implications of his election.",
+        "severity": "Low"
+      }
+    ],
+    "alignments": [
+      "The election took place on November 6, 1860.",
+      "Lincoln was elected as the 16th President of the United States.",
+      "Lincoln received election results at a telegraph office.",
+      "By midnight, Lincoln's victory was assured."
+    ],
+    "reasoning": "Overall, the accounts are consistent in terms of the basic facts of the election night. The main differences lie in the broader context and implications of the election, which Lincoln's account does not address. These omissions are noted but do not significantly detract from the factual alignment of the accounts.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "fort_sumter_decision",
+    "event_name": "Fort Sumter Decision",
+    "lincoln_source": "Fort Sumter Decision",
+    "other_source": "Abraham Lincoln",
+    "other_author": "Baron Godfrey Rathbone Benson Charnwood",
+    "consistency_score": 50,
+    "contradictions": [
+      {
+        "type": "Factual",
+        "lincoln_claim": "The Fort cannot be permanently held without a large increase of the present garrison.",
+        "other_claim": "General Scott advised Lincoln that to relieve Fort Sumter would require a force of 20,000 men, which did not exist.",
+        "explanation": "Lincoln does not specify the number of troops needed, while Charnwood provides a specific figure.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Withdrawal would have political effects upon the public mind.",
+        "other_claim": "Lincoln wrecked the compromise at a time when it seemed likely to succeed, which probably caused the Civil War.",
+        "explanation": "Charnwood attributes the start of the Civil War to Lincoln's actions, while Lincoln focuses on the political necessity of holding the fort.",
+        "severity": "High"
+      },
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "The question of holding the Fort involves the question of war.",
+        "other_claim": "Lincoln expressed no alarm about the South's intentions.",
+        "explanation": "Lincoln acknowledges the potential for war, while Charnwood suggests Lincoln was not alarmed.",
+        "severity": "High"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "The new Southern Congress resolved to take over the forts and other property in the seceded States that had belonged to the Union.",
+        "explanation": "Lincoln does not mention the actions of the Confederate Congress.",
+        "severity": "Low"
+      }
+    ],
+    "alignments": [
+      "The Fort cannot be permanently held without a large increase of the present garrison.",
+      "The attempt to supply provisions would provoke an attack and so involve a war.",
+      "The bombardment of Fort Sumter marked a significant moment that led to the Civil War."
+    ],
+    "reasoning": "The accounts align on the significance of Fort Sumter and the challenges Lincoln faced, but they diverge significantly on the interpretation of Lincoln's actions and motivations, as well as on specific factual details.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "gettysburg_address",
+    "event_name": "Gettysburg Address",
+    "lincoln_source": "Gettysburg Address (Nicolay Copy)",
+    "other_source": "Abraham Lincoln",
+    "other_author": "Baron Godfrey Rathbone Benson Charnwood",
+    "consistency_score": 95,
+    "contradictions": [
+      {
+        "type": "Interpretive",
+        "lincoln_claim": "Lincoln emphasized dedication to the task of ensuring the dead did not die in vain and the nation would experience a new birth of freedom.",
+        "other_claim": "Not mentioned",
+        "explanation": "Charnwood does not explicitly mention Lincoln's call for dedication to the task or the new birth of freedom, focusing instead on the speech's form and impact.",
+        "severity": "Medium"
+      }
+    ],
+    "alignments": [
+      "Lincoln delivered the Gettysburg Address on November 19, 1863.",
+      "The address was given at the dedication ceremony for the Soldiers' National Cemetery.",
+      "Lincoln's speech was brief compared to Edward Everett's.",
+      "The Gettysburg Address is noted for its lasting impact."
+    ],
+    "reasoning": "The accounts are largely consistent with each other, with minor interpretive differences. Charnwood's focus on the speech's form and impact complements rather than contradicts Lincoln's emphasis on dedication and freedom. The consistency score reflects this alignment with a minor deduction for interpretive omission.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  },
+  {
+    "event_id": "second_inaugural_address",
+    "event_name": "Second Inaugural Address",
+    "lincoln_source": "Second Inaugural Address",
+    "other_source": "Abraham Lincoln",
+    "other_author": "Baron Godfrey Rathbone Benson Charnwood",
+    "consistency_score": 90,
+    "contradictions": [
+      {
+        "type": "Omission",
+        "lincoln_claim": "Not mentioned",
+        "other_claim": "A battalion of negro troops was present in his escort during the inauguration.",
+        "explanation": "Lincoln does not mention the presence of negro troops, which is a significant detail noted by Charnwood.",
+        "severity": "Medium"
+      },
+      {
+        "type": "Omission",
+        "lincoln_claim": "The progress of arms is known to the public and is reasonably satisfactory and encouraging.",
+        "other_claim": "Not mentioned",
+        "explanation": "Charnwood does not mention Lincoln's statement about the progress of arms.",
+        "severity": "Medium"
+      }
+    ],
+    "alignments": [
+      "Lincoln's second inauguration took place on March 4, 1865.",
+      "Lincoln expressed a desire to 'bind up the nation's wounds.'",
+      "Both accounts reflect on the ongoing Civil War and the need for peace."
+    ],
+    "reasoning": "Overall, the accounts are largely consistent with each other, with some omissions and interpretive differences. The factual details align well, but certain interpretive elements and specific details are omitted in each account.",
+    "prompt_strategy": "chain_of_thought",
+    "temperature": 0.3
+  }
+]

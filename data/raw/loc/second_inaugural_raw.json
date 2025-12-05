@@ -1,0 +1,1591 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.0649366,
+      "title": "Selected Resources on Inaugurations, the Presidency, and Civic Engagement",
+      "url": "https://blogs.loc.gov/families/2021/01/resources-civics-inaugurations/"
+    },
+    {
+      "score": 6.0649366,
+      "title": "What\u2019s New Online from the LOC? How to Bring It into Your Classroom",
+      "url": "https://blogs.loc.gov/teachers/2018/01/whats-new-online-from-the-loc-how-to-bring-it-into-your-classroom/"
+    },
+    {
+      "score": 6.0649366,
+      "title": "Library of Congress Completes Digitization of 23 Early Presidential Collections",
+      "url": "https://www.loc.gov/item/prn-20-085/"
+    },
+    {
+      "score": 5.576848,
+      "title": "Let Us Strive",
+      "url": "https://blogs.loc.gov/folklife/2021/08/let-us-strive/"
+    },
+    {
+      "score": 5.576848,
+      "title": "Inauguration Stories: Lincoln\u2019s 1865 \u201cWith Malice Toward None\u201d Speech",
+      "url": "https://blogs.loc.gov/loc/2021/01/inauguration-stories-lincolns-1865-with-malice-toward-none-speech/"
+    },
+    {
+      "score": 5.576848,
+      "title": "Hearing Abraham Lincoln\u2019s Voice",
+      "url": "https://blogs.loc.gov/loc/2018/01/hearing-abraham-lincolns-voice/"
+    },
+    {
+      "score": 5.576848,
+      "title": "EverydayLOC: Cupid\u2019s Arrow",
+      "url": "https://blogs.loc.gov/loc/2018/02/everydayloc-cupids-arrow/"
+    },
+    {
+      "score": 5.576848,
+      "title": "Free to Use and Reuse: The Story of Abraham Lincoln",
+      "url": "https://blogs.loc.gov/loc/2017/11/free-to-use-and-reuse-the-story-of-abraham-lincoln/"
+    },
+    {
+      "score": 5.576848,
+      "title": "New Online: Abraham Lincoln Papers",
+      "url": "https://blogs.loc.gov/loc/2017/11/new-online-abraham-lincoln-papers/"
+    },
+    {
+      "score": 5.576848,
+      "title": "Live! at the Library: Manuscript Division Items on Display in Honor of Lincoln Memorial Centennial",
+      "url": "https://blogs.loc.gov/manuscripts/2022/05/live-at-the-library-manuscript-division-items-on-display-in-honor-of-lincoln-memorial-centennial/"
+    },
+    {
+      "score": 5.576848,
+      "title": "Abraham Lincoln\u2019s Second Inauguration: Scenes from March 4, 1865",
+      "url": "https://blogs.loc.gov/manuscripts/2025/01/abraham-lincolns-second-inauguration-scenes-from-march-4-1865/"
+    }
+  ],
+  "cite_this": {
+    "apa": "Lincoln, A. (1865) <cite>Abraham Lincoln papers: Series 3. General Correspondence. 1837 to 1897: Abraham Lincoln, March 4, 1865 Second Inaugural Address; endorsed by Lincoln</cite>. March 4. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mal4361300/.",
+    "chicago": "Lincoln, Abraham. <cite>Abraham Lincoln papers: Series 3. General Correspondence. 1837 to 1897: Abraham Lincoln, March 4, 1865 Second Inaugural Address; endorsed by Lincoln</cite>. March 4, 1865. Manuscript/Mixed Material. https://www.loc.gov/item/mal4361300/.",
+    "mla": "Lincoln, Abraham. <cite>Abraham Lincoln papers: Series 3. General Correspondence. 1837 to 1897: Abraham Lincoln, March 4, 1865 Second Inaugural Address; endorsed by Lincoln</cite>. March 4, 1865. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;www.loc.gov/item/mal4361300/&gt;."
+  },
+  "item": {
+    "_version_": 1730881707425398784,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/item/mal4361300/",
+      "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.4361300",
+      "http://www.loc.gov/resource/mal.4361300/",
+      "http://www.loc.gov/item/mal.4361300/"
+    ],
+    "call_number": [
+      "series: Series 3. General Correspondence. 1837-1897"
+    ],
+    "campaigns": [],
+    "contributor_names": [
+      "Lincoln, Abraham, 1809-1865"
+    ],
+    "contributors": [
+      {
+        "lincoln, abraham": "https://www.loc.gov/search/?fa=contributor:lincoln,+abraham&fo=json"
+      }
+    ],
+    "created_published": [
+      "March 4, 1865"
+    ],
+    "date": "1865-03-04",
+    "dates": [
+      {
+        "1865-03-04": "https://www.loc.gov/search/?dates=1865-03-04/1865-03-04&fo=json"
+      }
+    ],
+    "digital_id": [
+      "http://hdl.loc.gov/loc.mss/ms000001.mss30189a.4361300"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2022-01-29T14:04:36.998Z",
+    "extract_urls": [
+      "http://c2vlpdmtool01.loc.gov/data-management-tool/export_group_xml/mal/mal4361300.xml#mal"
+    ],
+    "format": [
+      {
+        "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format:manuscript/mixed+material&fo=json"
+      }
+    ],
+    "genre": [
+      "Manuscripts"
+    ],
+    "group": [
+      "mal",
+      "abraham-lincoln-papers"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/mal4361300/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:12.5/0/default.jpg#h=292&w=455",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:25/0/default.jpg#h=585&w=911",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:50/0/default.jpg#h=1171&w=1823",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:100/0/default.jpg#h=2342&w=3647"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": [
+        "series: Series 3. General Correspondence. 1837-1897"
+      ],
+      "contributors": [
+        "Lincoln, Abraham, 1809-1865"
+      ],
+      "created_published": [
+        "March 4, 1865"
+      ],
+      "date": "18650304",
+      "digital_id": [
+        "http://hdl.loc.gov/loc.mss/ms000001.mss30189a.4361300"
+      ],
+      "format": "mixed material",
+      "genre": [
+        "Manuscripts"
+      ],
+      "language": [
+        "eng"
+      ],
+      "notes": [
+        "Second Inaugural Address; endorsed by Lincoln, April 10, 1865"
+      ],
+      "repository": "Manuscript Division",
+      "rights": "No known restrictions on use or reproduction.",
+      "source_collection": "Abraham Lincoln Papers at the Library of Congress",
+      "subjects": [
+        "United States--History--Civil War, 1861-1865.",
+        "United States--Politics and government--1861-1865.",
+        "Presidents--United States.",
+        "Manuscripts"
+      ],
+      "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: Abraham Lincoln, [March 4, 1865] (Second Inaugural Address; endorsed by Lincoln, April 10, 1865)"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "mime_type": [
+      "text/xml",
+      "image/jpeg",
+      "image/jp2",
+      "application/xml",
+      "image/tiff",
+      "application/pdf"
+    ],
+    "notes": [
+      "Second Inaugural Address; endorsed by Lincoln, April 10, 1865"
+    ],
+    "online_format": [
+      "online text",
+      "image",
+      "pdf"
+    ],
+    "original_format": [
+      "manuscript/mixed material"
+    ],
+    "other_formats": [],
+    "partof": [
+      {
+        "count": 189,
+        "title": "abraham lincoln papers at the library of congress: series 3. general correspondence. 1837-1897",
+        "url": "https://www.loc.gov/search/?fa=partof:abraham+lincoln+papers+at+the+library+of+congress:+series+3.+general+correspondence.+1837-1897&fo=json"
+      },
+      {
+        "count": 20206,
+        "title": "abraham lincoln papers at the library of congress",
+        "url": "https://www.loc.gov/collections/abraham-lincoln-papers/?fo=json"
+      },
+      {
+        "count": 170336,
+        "title": "manuscript division",
+        "url": "https://www.loc.gov/search/?fa=partof:manuscript+division&fo=json"
+      }
+    ],
+    "repository": [
+      "Manuscript Division"
+    ],
+    "resources": [
+      {
+        "files": 11,
+        "fulltext_file": "https://tile.loc.gov/storage-services/service/mss/mal/436/4361300/4361300.xml",
+        "image": "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:12.5/0/default.jpg",
+        "pdf": "https://tile.loc.gov/storage-services/service/mss/mal/436/4361300/4361300.pdf",
+        "url": "https://www.loc.gov/resource/mal.4361300/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress&rsquo;s digital scans of the papers of Abraham Lincoln are  in the public domain.</p>\r\n<p>Credit Line: Library of Congress, Manuscript Division, Abraham Lincoln  Papers.</p>\r\n<p>More about <a href=\"/legal/\">Copyright and other  Restrictions</a></p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing  Primary Sources</a>.</p>\r\n"
+    ],
+    "score": 19.300514,
+    "shard": "00",
+    "shelf_id": "series: Series 3. General Correspondence. 1837-1897",
+    "source_collection": "Abraham Lincoln Papers at the Library of Congress",
+    "subject": [
+      "civil war",
+      "politics and government",
+      "manuscripts",
+      "united states",
+      "presidents",
+      "history"
+    ],
+    "subject_headings": [
+      "United States--History--Civil War, 1861-1865",
+      "United States--Politics and government--1861-1865",
+      "Presidents--United States",
+      "Manuscripts"
+    ],
+    "subjects": [
+      {
+        "civil war": "https://www.loc.gov/search/?fa=subject:civil+war&fo=json"
+      },
+      {
+        "history": "https://www.loc.gov/search/?fa=subject:history&fo=json"
+      },
+      {
+        "manuscripts": "https://www.loc.gov/search/?fa=subject:manuscripts&fo=json"
+      },
+      {
+        "politics and government": "https://www.loc.gov/search/?fa=subject:politics+and+government&fo=json"
+      },
+      {
+        "presidents": "https://www.loc.gov/search/?fa=subject:presidents&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "timestamp": "2022-04-23T07:03:49.018Z",
+    "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: Abraham Lincoln, [March 4, 1865] (Second Inaugural Address; endorsed by Lincoln, April 10, 1865)",
+    "type": [
+      "manuscript/mixed material"
+    ],
+    "url": "https://www.loc.gov/item/mal4361300/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal4332500/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.4332500",
+        "http://www.loc.gov/resource/mal.4332500/",
+        "http://www.loc.gov/item/mal.4332500/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1837-07-01",
+      "dates": [
+        "1837-07"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T13:58:10.072Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal4332500/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332500:001/full/pct:6.25/0/default.jpg#h=484&w=308",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332500:001/full/pct:12.5/0/default.jpg#h=968&w=617",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332500:001/full/pct:25/0/default.jpg#h=1937&w=1234",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332500:001/full/pct:50/0/default.jpg#h=3874&w=2469",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332500:001/full/pct:100/0/default.jpg#h=7748&w=4939"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 3. general correspondence. 1837-1897"
+      ],
+      "score": 20.50671,
+      "shelf_id": "series: Series 3. General Correspondence. 1837-1897",
+      "subject": [
+        "civil war",
+        "politics and government",
+        "manuscripts",
+        "united states",
+        "presidents",
+        "history"
+      ],
+      "timestamp": "2022-04-23T07:02:08.254Z",
+      "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: [Abraham Lincoln and Jesse B. Thomas], July 1837 (Bill for Specific Performance in case of George Waggoner [Wagoner] vs. William Kirkpatrick; signed by Thomas Pickett)",
+      "url": "https://www.loc.gov/item/mal4332500/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal4332700/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.4332700",
+        "http://www.loc.gov/resource/mal.4332700/",
+        "http://www.loc.gov/item/mal.4332700/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1839-05-01",
+      "dates": [
+        "1839-05"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T13:58:10.072Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal4332700/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332700:001/full/pct:6.25/0/default.jpg#h=331&w=328",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332700:001/full/pct:12.5/0/default.jpg#h=663&w=656",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332700:001/full/pct:25/0/default.jpg#h=1327&w=1312",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332700:001/full/pct:50/0/default.jpg#h=2655&w=2624",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332700:001/full/pct:100/0/default.jpg#h=5311&w=5249"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 3. general correspondence. 1837-1897"
+      ],
+      "score": 20.50671,
+      "shelf_id": "series: Series 3. General Correspondence. 1837-1897",
+      "subject": [
+        "civil war",
+        "politics and government",
+        "manuscripts",
+        "united states",
+        "presidents",
+        "history"
+      ],
+      "timestamp": "2022-04-23T07:02:08.254Z",
+      "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: [Abraham Lincoln], [May 1839] (Declaration in case of Manly F. Cannon vs. Matthew P. Kenney)",
+      "url": "https://www.loc.gov/item/mal4332700/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal4332900/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.4332900",
+        "http://www.loc.gov/resource/mal.4332900/",
+        "http://www.loc.gov/item/mal.4332900/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1839-11-12",
+      "dates": [
+        "1839-11-12"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T13:58:10.072Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal4332900/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332900:001/full/pct:6.25/0/default.jpg#h=471&w=293",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332900:001/full/pct:12.5/0/default.jpg#h=943&w=587",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332900:001/full/pct:25/0/default.jpg#h=1886&w=1175",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332900:001/full/pct:50/0/default.jpg#h=3772&w=2350",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4332900:001/full/pct:100/0/default.jpg#h=7544&w=4700"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 3. general correspondence. 1837-1897"
+      ],
+      "score": 20.50671,
+      "shelf_id": "series: Series 3. General Correspondence. 1837-1897",
+      "subject": [
+        "civil war",
+        "politics and government",
+        "manuscripts",
+        "united states",
+        "presidents",
+        "history"
+      ],
+      "timestamp": "2022-04-23T07:02:08.254Z",
+      "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: [Abraham Lincoln], Tuesday, November 12, 1839 (Affidavit in case of John Casey vs. Thomas Bowles; signed by Thomas Bowles)",
+      "url": "https://www.loc.gov/item/mal4332900/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal4333000/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.4333000",
+        "http://www.loc.gov/resource/mal.4333000/",
+        "http://www.loc.gov/item/mal.4333000/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1839-11-13",
+      "dates": [
+        "1839-11-13"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T13:58:10.072Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal4333000/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333000:001/full/pct:6.25/0/default.jpg#h=480&w=312",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333000:001/full/pct:12.5/0/default.jpg#h=961&w=625",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333000:001/full/pct:25/0/default.jpg#h=1922&w=1251",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333000:001/full/pct:50/0/default.jpg#h=3844&w=2502",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333000:001/full/pct:100/0/default.jpg#h=7688&w=5004"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 3. general correspondence. 1837-1897"
+      ],
+      "score": 20.50671,
+      "shelf_id": "series: Series 3. General Correspondence. 1837-1897",
+      "subject": [
+        "civil war",
+        "politics and government",
+        "manuscripts",
+        "united states",
+        "presidents",
+        "history"
+      ],
+      "timestamp": "2022-04-23T07:02:08.254Z",
+      "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: [Abraham Lincoln], Wednesday, November 13, 1839 (Bill for divorce in case of Royal A. Clary vs. Sally J. Clary; signed by Royal A. Clary and D. H. Rutledge)",
+      "url": "https://www.loc.gov/item/mal4333000/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal4333200/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.4333200",
+        "http://www.loc.gov/resource/mal.4333200/",
+        "http://www.loc.gov/item/mal.4333200/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1840-06-15",
+      "dates": [
+        "1840-06-15"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T13:58:10.072Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal4333200/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333200:001/full/pct:6.25/0/default.jpg#h=251&w=294",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333200:001/full/pct:12.5/0/default.jpg#h=503&w=588",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333200:001/full/pct:25/0/default.jpg#h=1007&w=1176",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333200:001/full/pct:50/0/default.jpg#h=2015&w=2352",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333200:001/full/pct:100/0/default.jpg#h=4031&w=4704"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/plain",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "online text",
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 3. general correspondence. 1837-1897"
+      ],
+      "score": 20.50671,
+      "shelf_id": "series: Series 3. General Correspondence. 1837-1897",
+      "subject": [
+        "civil war",
+        "politics and government",
+        "manuscripts",
+        "united states",
+        "presidents",
+        "history"
+      ],
+      "timestamp": "2022-04-23T07:02:08.254Z",
+      "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: [Stephen T. Logan], Monday, June 15, 1840 (Bond for costs in case of Samuel H. Dabney vs. Isaac P. Spear)",
+      "url": "https://www.loc.gov/item/mal4333200/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mal4333300/",
+        "https://hdl.loc.gov/loc.mss/ms000001.mss30189a.4333300",
+        "http://www.loc.gov/resource/mal.4333300/",
+        "http://www.loc.gov/item/mal.4333300/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1841-09-27",
+      "dates": [
+        "1841-09-27"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T13:58:10.072Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mal4333300/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333300:001/full/pct:6.25/0/default.jpg#h=382&w=310",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333300:001/full/pct:12.5/0/default.jpg#h=765&w=621",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333300:001/full/pct:25/0/default.jpg#h=1530&w=1243",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333300:001/full/pct:50/0/default.jpg#h=3060&w=2486",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:433:4333300:001/full/pct:100/0/default.jpg#h=6121&w=4972"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 3. general correspondence. 1837-1897"
+      ],
+      "score": 20.50671,
+      "shelf_id": "series: Series 3. General Correspondence. 1837-1897",
+      "subject": [
+        "civil war",
+        "politics and government",
+        "manuscripts",
+        "united states",
+        "presidents",
+        "history"
+      ],
+      "timestamp": "2022-04-23T07:02:08.254Z",
+      "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: Abraham Lincoln to Mary Speed, Monday, September 27, 1841 (Personal affairs)",
+      "url": "https://www.loc.gov/item/mal4333300/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "mal",
+      "abraham-lincoln-papers",
+      "ndnp/wvu",
+      "west-virginia-university-awardee"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "mal.4361300",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.2254347801208496,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/mal.4361300/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/mal.4361300/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1764803296.117548,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 292,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:12.5/0/default.jpg",
+      "width": 455
+    },
+    {
+      "height": 585,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:25/0/default.jpg",
+      "width": 911
+    },
+    {
+      "height": 1171,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:50/0/default.jpg",
+      "width": 1823
+    },
+    {
+      "height": 2342,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:100/0/default.jpg",
+      "width": 3647
+    },
+    {
+      "height": 2342,
+      "info": "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 1440304,
+      "url": "https://tile.loc.gov/storage-services/service/mss/mal/436/4361300/001.jp2",
+      "width": 3647
+    },
+    {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 25646664,
+      "url": "https://tile.loc.gov/storage-services/master/mss/mal/436/4361300/001.tif",
+      "width": null
+    },
+    {
+      "fulltext": "<ammemxml><printpgno><br /></printpgno>          <body> <div> <p> <span class='underscore'>Abraham Lincoln, Second Inaugural Address<anchor>1</anchor>, [March 4, 1865]</span> </p> <note> <p>1 The only known manuscript of Lincoln's famous Second Inaugural Address, this document appears to be a fair copy, rather than a composition draft.  Its large lettering and well-spaced lines suggest it was copied out fair as a reading copy.  This is confirmed by the revision he made to the address's ending, which could have been effected by inserting additional words between the lines.  Instead, he made the revision by pasting a slip of paper, or tab, over the last two lines of his text and writing the revised version on the tab.</p> <p>At some point it was decided to make printed copies available to the press.  The name written in pencil in the top margin of the first page of the manuscript, \u201cFlynn,\u201d is almost certainly that of the typesetter assigned by the printer to set the manuscript into type.  After proofreading the galleys of what would become a three-page printed handout for the press, Lincoln seems to have retained a set of uncorrected galleys and fashioned this into his reading copy.  He did this by cutting the printed galleys up into smaller segments (mostly consisting of one sentence), arranging them into two columns, and pasting them onto a larger sheet.  The text of this reading copy shows two verbal changes, which are present also in the manuscript copy, and many punctuation changes, which are not.  This is presumably the text that Lincoln read from at the inaugural ceremony at the Capitol on March 4, 1865.</p> <p>For more details on the manuscript, the three-page printed press handout, and the reading copy, see David C. Mearns and Lloyd A. Dunlap, Library of Congress Press Release, Feb. 8, 1965.  Both manuscript and reading copy were presented by the president to John Hay and were in turn presented by his family to the Library of Congress in 1916.</p> <p>The text of the manuscript is followed by that of the reading copy.</p> </note> <p>[<span class='underscore'>Manuscript copy</span>]</p> <p> <span class='underscore'>Fellow Countrymen</span> <anchor>2</anchor> </p> <p> <note>2 In pencil, possibly in another hand.</note> </p> <p>At this second appearing to take the oath of the presidential office, there is less occasion for an extended address than there was at the first.  Then a statement, somewhat in detail, of a course to be pursued, seemed fitting and proper.  Now, at the expiration of four years, during which public declarations have been constantly called forth on every point and phase of the great contest which still absorbs the attention, and engrosses the enerergies of the nation, little that is new could be presented.  The progress of our arms, upon which all else chiefly depends, is as well known to the public as to myself; and it is, I trust, reasonably satisfactory and encouraging to all.  With high hope for the future, no prediction in regard to it is ventured.</p> <p>On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil-war.  All dreaded it \u2014 all sought to avert it.  While the inaugeral address was being delivered from this place, devoted altogether to <span class='underscore'>saving</span> the Union without war, insurgent agents were in the city seeking to <span class='underscore'>destroy</span> it without war \u2014 seeking to dissole the Union, and divide effects, by negotiation.  Both parties deprecated war; but one of them would <span class='underscore'>make</span> war rather than let the nation survive; and the other would <span class='underscore'>accept</span> war rather than let it perish.  And the war came.</p> <p>One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern <span class='italics'>half</span> part of it.  These slaves constituted a peculiar and powerful interest.  All knew that this interest was, somehow, the cause of the war.  To strengthen, perpetuate, and extend this interest was the object for which the insurgents would rend the Union, even by war; while the government claimed no right to do more than to restrict the territorial enlargement of it.  Neither party expected for the war, the magnitude, or the duration, which it has already attained.  Neither anticipated that the <span class='underscore'>cause</span> of the conflict might cease with, or even before, the conflict itself should cease.  Each looked for an easier triumph, and a result less fundamental and astounding.  Both read the same Bible, and pray to the same God; and each invokes His aid against the other.  It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces; but let us judge not that we be not judged.  The prayers of both could not be answered; that of neither has been answered fully.  The Almighty has His own purposes.  \u201cWoe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!\u201d  If we shall suppose that American Slavery is one of those offences which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove, and that He gives to both North and South, this terrible war, as the woe due to those by whom the offence came, shall we discern therein any departure from those divine attributes which the believers in  a Living God always ascribe to Him?  Fondly do we hope \u2014 fervently do we pray \u2014 that this mighty scourge of war may speedily pass away.  Yet, if God wills that it continue, until all the wealth piled by the bond-man\u2019s two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash, shall be paid by another drawn with the sword, as was said <span class='italics'>f</span>[<span class='italics'>our</span>] three thousand years ago, so still it must be said \u201cthe judgments of the Lord, are true and righteous altogether\u201d</p> <p>With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow, and his orphan \u2014 <span class='italics'>to achieve and cherish a lasting peace among ourselves and with the world.</span> to do all which may achieve and cherish a just, and a lasting peace, among ourselves, and with <span class='italics'>the world.</span> all nations.<anchor>3</anchor> </p> <p> <note>3 Lincoln revised his text by covering the last two lines (\u201cto achieve . . .the world.\u201d) with a tab, on which he wrote the revised ending (\u201cto do all . . . the world.\u201d).  A further change was made on the tab itself by striking \u201cthe world\u201d  and substituting \u201call nations.\u201d</note> </p> <p>[<span class='underscore'>Endorsed by Lincoln:</span>]</p> <p>Original manuscript<anchor>4</anchor> of second Inaugeral presented to Major John Hay.</p> <p> <note>4 Lincoln's characterization of this document as the \u201coriginal manuscript\u201d must be regarded with some latitude, as the manuscript gives every evidence of being a fair copy, made from an earlier composition draft.  It is undoubtedly the manuscript from which the printed reading copy was set.</note> </p> <p>A. Lincoln</p> <p>April 10, 1865</p> <p>[<span class='underscore'>Printed Reading Copy</span>]<anchor>5</anchor> </p> <note> <p>5 Whether Lincoln planned to have his manuscript set up in print to read from, or decided to take advantage of the advance printing for the press handout, is not known.  Comparison with the press handout shows this reading copy to be an uncorrected galley proof in which the printer had already made a number of minor changes in spelling, capitalization, and punctuation, many of which Lincoln accepted. The additional punctuation, particularly the commas added at this late stage, probably reflects Lincoln's characteristic concern for the most effective pace and delivery.</p> <p>A list of all changes appears at the end of the text.</p> </note> <p>FELLOW COUNTRYMEN: At this second appearing to take the oath of the presidential office, there is less occasion for an extended address than there was at the first.  Then, a statement, somewhat in detail, of a course to be pursued, seemed fitting and proper. Now, at the expiration of four years, during which public declarations have been constantly called forth, on every point and phase of the great contest which still absorbs the attention, and engrosses the energies of the nation, little that is new could be presented.  The progress of our arms, upon which all else chiefly depends, is as well known to the public as to myself; and it is, I trust, reasonably satisfactory and encouraging to all.  With high hope for the future, no prediction in regard to it is ventured.</p> <p>On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil war.  All dreaded it \u2014 all sought to avert it. While the inaugural address was being delivered from this place, devoted altogether to <span class='underscore'>saving</span> the Union without war, insurgent agents were in the city seeking to <span class='underscore'>destroy</span> it without war \u2014 seeking to dissolve the Union, and divide effects, by negotiation.  Both parties deprecated war; but one of them would <span class='underscore'>make</span> war rather than let the nation survive; and the other would <span class='underscore'>accept</span> war rather than let it perish. And the war came.</p> <p>One-eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the southern <span class='italics'>half</span> part of it. These slaves constituted a peculiar, and powerful interest.  All knew that this interest was, somehow, the cause of the war.  To strengthen, perpetuate and extend this interest, was the object for which the insurgents would rend the Union, even by war; while the government claimed no right to do more, than to restrict the territorial enlargement of it. Neither party expected for the war, the magnitude, or the duration, which it has already attained. Neither anticipated that the <span class='underscore'>cause</span> of the conflict might cease with, or even before, the conflict itself should cease.  Each looked for an easier triumph, and a result less fundamental and astounding.  Both read the same Bible, and pray to the same God; and each invokes His aid against the other.  It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces; but let us judge not, that we be not judged.  The prayers of both could not be answered \u2014 that of neither, has been answered fully.  The Almighty has His own purposes. \u201c Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh.\u201d   If we shall suppose that American slavery is one of those offences which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove; and that He gives to both north and south this terrible war, as the woe due to those by whom the offence came, shall we discern therein any departure from those divine attributes which the believers in a living God always ascribe to Him?  Fondly do we hope \u2014 fervently do we pray \u2014 that this mighty scourge of war may speedily pass away.  Yet, if God wills that it continue until all the wealth piled by the bondman's two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash, shall be paid by another drawn with the sword, as was said three thousand years ago, so still it must be said, \u201cthe judgments of the Lord are true and righteous altogether.\u201d</p> <p>With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow, and his orphan \u2014 to do all which may achieve and cherish, a just and a lasting peace, among ourselves, and with <span class='italics'>the world.</span> all nations.<anchor>6</anchor> </p> <note> <p>6 Lincoln made a great many changes on this galley proof, many of which do not appear in the three-page press handout.  This suggests that Lincoln made most of these changes after he had made corrections on another set of corrected galleys sent to the printer.  Differences between this text and that of the holograph manuscript are of two types: A. Changes made by Lincoln to his own manuscript text.  B. Changes made by the printer, some of which were accepted and some rejected by Lincoln. A list of the changes in each category follows:</p> <p>A. Changes made here by Lincoln to his manuscript text:</p> <p>Word changes: \u201chalf\u201d  changed to \u201cpart\u201d; \u201cthe world\u201d  changed to \u201call nations\u201d (these changes were also made in the manuscript).  Commas added after \u201ccalled forth\u201d; \u201cpeculiar\u201d; \u201cthis interest\u201d; \u201cto do more\u201d; \u201cthat of neither\u201d;  \u201ccherish\u201d.  Semi-colon substituted for comma after \u201cwills to remove\u201d.</p> <p>B. Changes made by the printer:</p> <p> <span class='underscore'>Accepted by Lincoln</span>: comma added after \u201cThen\u201d; \u201ccivil war\u201d  for manuscript's \u201ccivil-war\u201d; \u201cenergies\u201d for the manuscript's \u201cenerergies\u201d;\u201cinaugural\u201d  for the manuscript's \u201cinaugeral\u201d; \u201cdissolve\u201d  for the manuscript's \u201cdissole\u201d; \u201cOne-eighth\u201d  for manuscript's \u201cOne eighth\u201d; comma deleted after \u201cperpetuate\u201d; comma added after \u201cjudge not\u201d; dash after \u201canswered\u201d  (substituted for Lincoln's semi-colon); period after \u201ccometh\u201d  (substituted for Lincoln's exclamation point); initial capitals changed to lower case in \u201csouthern\u201d, \u201cslavery\u201d, \u201cnorth\u201d, \u201csouth\u201d, and \u201cliving\u201d; comma after \u201cnorth and south\u201d deleted; comma after \u201ccontinue\u201d  deleted; \u201cbondman's\u201d  for manuscript's \u201cbond-man's\u201d; comma added after \u201cmust be said\u201d; comma after \u201cLord\u201d  deleted; period added after \u201caltogether\u201d; comma after \u201ccherish a just\u201d deleted.</p> <p> <span class='underscore'>Rejected by Lincoln</span>:</p> <p>Comma deleted after \u201cattention\u201d  restored by Lincoln; comma substituted for semi-colon after \u201ceven by war\u201d  changed back to semi-colon by Lincoln; comma deleted after \u201cfor the war\u201d  restored by Lincoln; comma deleted after \u201cmagnitude\u201d  restored by Lincoln; comma deleted after \u201cduration\u201d  restored by Lincoln; comma deleted after \u201ctriumph\u201d restored by Lincoln; comma deleted after \u201cBible\u201d  restored by Lincoln; semi-colon changed to comma after \u201csame God\u201d  restored by Lincoln; comma deleted after \u201clash\u201d restored by Lincoln; comma deleted after \u201clasting peace\u201d restored by Lincoln.</p> </note> </div>         </ammemxml>",
+      "mimetype": "text/xml",
+      "use": "text"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "first": null,
+    "from": 1,
+    "last": "https://www.loc.gov/resource/mal.4361300/?fo=json&sp=4",
+    "next": "https://www.loc.gov/resource/mal.4361300/?fo=json&sp=2",
+    "of": 11,
+    "page_list": [
+      {
+        "number": 1,
+        "url": null
+      },
+      {
+        "number": 2,
+        "url": "https://www.loc.gov/resource/mal.4361300/?fo=json&sp=2"
+      },
+      {
+        "number": 3,
+        "url": "https://www.loc.gov/resource/mal.4361300/?fo=json&sp=3"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/mal.4361300/?fo=json&sp=4"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": null,
+    "results": "1 - 1",
+    "to": 1,
+    "total": 11
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85059834/1862-09-29/ed-1/",
+        "http://www.loc.gov/resource/sn85059834/1862-09-29/ed-1/"
+      ],
+      "batch": [
+        "wvu_gorn_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1862-09-29",
+      "dates": [
+        "1862-09-29"
+      ],
+      "description": [
+        "Charleston, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:01:43.988Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85059834/1862-09-29/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862092901:0007/full/pct:6.25/0/default.jpg#h=294&w=221",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862092901:0007/full/pct:12.5/0/default.jpg#h=588&w=442",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862092901:0007/full/pct:25/0/default.jpg#h=1177&w=885"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "charleston",
+        "united states",
+        "kanawha",
+        "west virginia"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00271767663",
+        "sn85059834"
+      ],
+      "numeric_shelf_id": 186209291,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "the guerilla (charleston, va. [w. va.]) 1862-186?"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn85059834, 1862-09-29, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "charleston",
+        "civil war",
+        "kanawha",
+        "american civil war",
+        "united states",
+        "west virginia",
+        "charleston (w. va.)",
+        "history"
+      ],
+      "timestamp": "2025-07-16T18:56:23.391Z",
+      "title": "The guerilla (Charleston, Va. [W. Va.]), September 29, 1862",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85059834/1862-09-29/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85059834/1862-10-03/ed-1/",
+        "http://www.loc.gov/resource/sn85059834/1862-10-03/ed-1/"
+      ],
+      "batch": [
+        "wvu_gorn_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1862-10-03",
+      "dates": [
+        "1862-10-03"
+      ],
+      "description": [
+        "Charleston, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:01:43.988Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85059834/1862-10-03/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862100301:0011/full/pct:12.5/0/default.jpg#h=486&w=384",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862100301:0011/full/pct:25/0/default.jpg#h=972&w=769"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "charleston",
+        "united states",
+        "kanawha",
+        "west virginia"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00271767663",
+        "sn85059834"
+      ],
+      "numeric_shelf_id": 186210031,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "the guerilla (charleston, va. [w. va.]) 1862-186?"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn85059834, 1862-10-03, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "charleston",
+        "civil war",
+        "kanawha",
+        "american civil war",
+        "united states",
+        "west virginia",
+        "charleston (w. va.)",
+        "history"
+      ],
+      "timestamp": "2025-07-16T18:56:23.391Z",
+      "title": "The guerilla (Charleston, Va. [W. Va.]), October 3, 1862",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85059834/1862-10-03/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85059536/1863-03-24/ed-1/",
+        "http://www.loc.gov/resource/sn85059536/1863-03-24/ed-1/"
+      ],
+      "batch": [
+        "wvu_irwin_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1863-03-24",
+      "dates": [
+        "1863-03-24"
+      ],
+      "description": [
+        "Martinsburg, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:03:00.564Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85059536/1863-03-24/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn85059536:print:1863032401:0001/full/pct:6.25/0/default.jpg#h=383&w=260",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn85059536:print:1863032401:0001/full/pct:12.5/0/default.jpg#h=767&w=520"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "martinsburg",
+        "berkeley",
+        "united states",
+        "west virginia"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn85059536"
+      ],
+      "numeric_shelf_id": 186303241,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "weekly gazette (martinsburg, va. [w. va.]) 1863-186?",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn85059536, 1863-03-24, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "civil war",
+        "martinsburg",
+        "american civil war",
+        "united states",
+        "west virginia",
+        "berkeley",
+        "martinsburg (w. va.)",
+        "history"
+      ],
+      "timestamp": "2025-07-16T22:45:40.920Z",
+      "title": "Weekly gazette (Martinsburg, Va. [W. Va.]), March 24, 1863",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85059536/1863-03-24/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84026772/1861-07-11/ed-1/",
+        "http://www.loc.gov/resource/sn84026772/1861-07-11/ed-1/"
+      ],
+      "batch": [
+        "wvu_kuwait_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1861-07-11",
+      "dates": [
+        "1861-07-11"
+      ],
+      "description": [
+        "Martinsburg, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:04:39.183Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84026772/1861-07-11/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861071101:0023/full/pct:6.25/0/default.jpg#h=315&w=216",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861071101:0023/full/pct:12.5/0/default.jpg#h=631&w=433"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "martinsburg",
+        "berkeley",
+        "united states",
+        "west virginia"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn84026772",
+        "00202192476"
+      ],
+      "numeric_shelf_id": 186107111,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "the american union (martinsburg, va. [w. va.]) 1861-1861",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "irregular"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn84026772, 1861-07-11, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "civil war",
+        "martinsburg",
+        "american civil war",
+        "united states",
+        "west virginia",
+        "berkeley",
+        "martinsburg (w. va.)",
+        "history"
+      ],
+      "timestamp": "2025-07-17T05:04:15.585Z",
+      "title": "The American union (Martinsburg, Va. [W. Va.]), July 11, 1861",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84026772/1861-07-11/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84026772/1861-07-06/ed-1/",
+        "http://www.loc.gov/resource/sn84026772/1861-07-06/ed-1/"
+      ],
+      "batch": [
+        "wvu_kuwait_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1861-07-06",
+      "dates": [
+        "1861-07-06"
+      ],
+      "description": [
+        "Martinsburg, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:04:39.183Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84026772/1861-07-06/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070601:0015/full/pct:6.25/0/default.jpg#h=264&w=172",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070601:0015/full/pct:12.5/0/default.jpg#h=529&w=345",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070601:0015/full/pct:25/0/default.jpg#h=1059&w=691"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "martinsburg",
+        "berkeley",
+        "united states",
+        "west virginia"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn84026772",
+        "00202192476"
+      ],
+      "numeric_shelf_id": 186107061,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "the american union (martinsburg, va. [w. va.]) 1861-1861",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "irregular"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn84026772, 1861-07-06, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "civil war",
+        "martinsburg",
+        "american civil war",
+        "united states",
+        "west virginia",
+        "berkeley",
+        "martinsburg (w. va.)",
+        "history"
+      ],
+      "timestamp": "2025-07-17T05:04:15.585Z",
+      "title": "The American union (Martinsburg, Va. [W. Va.]), July 6, 1861",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84026772/1861-07-06/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84026772/1861-07-09/ed-1/",
+        "http://www.loc.gov/resource/sn84026772/1861-07-09/ed-1/"
+      ],
+      "batch": [
+        "wvu_kuwait_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1861-07-09",
+      "dates": [
+        "1861-07-09"
+      ],
+      "description": [
+        "Martinsburg, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-05-27T17:04:39.183Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84026772/1861-07-09/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070901:0019/full/pct:6.25/0/default.jpg#h=313&w=215",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070901:0019/full/pct:12.5/0/default.jpg#h=627&w=431"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "martinsburg",
+        "berkeley",
+        "united states",
+        "west virginia"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn84026772",
+        "00202192476"
+      ],
+      "numeric_shelf_id": 186107091,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "the american union (martinsburg, va. [w. va.]) 1861-1861",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "irregular"
+      ],
+      "score": 16.464952,
+      "shelf_id": "sn84026772, 1861-07-09, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "civil war",
+        "martinsburg",
+        "american civil war",
+        "united states",
+        "west virginia",
+        "berkeley",
+        "martinsburg (w. va.)",
+        "history"
+      ],
+      "timestamp": "2025-07-17T05:04:15.585Z",
+      "title": "The American union (Martinsburg, Va. [W. Va.]), July 9, 1861",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84026772/1861-07-09/ed-1/"
+    }
+  ],
+  "resource": {
+    "caption": "",
+    "fulltext_attribution": "Transcribed and annotated by the Lincoln Studies Center, Knox College. Galesburg, Illinois.",
+    "fulltext_file": "https://tile.loc.gov/storage-services/service/mss/mal/436/4361300/4361300.xml",
+    "image": "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:12.5/0/default.jpg",
+    "pdf": "https://tile.loc.gov/storage-services/service/mss/mal/436/4361300/4361300.pdf",
+    "segment_count": 11,
+    "url": "https://www.loc.gov/resource/mal.4361300/"
+  },
+  "resources": [
+    {
+      "caption": "",
+      "fulltext_attribution": "Transcribed and annotated by the Lincoln Studies Center, Knox College. Galesburg, Illinois.",
+      "fulltext_file": "https://tile.loc.gov/storage-services/service/mss/mal/436/4361300/4361300.xml",
+      "image": "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:12.5/0/default.jpg",
+      "pdf": "https://tile.loc.gov/storage-services/service/mss/mal/436/4361300/4361300.pdf",
+      "segment_count": 11,
+      "url": "https://www.loc.gov/resource/mal.4361300/"
+    }
+  ],
+  "segments": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/mal.4361300/?sp=1"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1865-03-04",
+      "dates": [
+        "1865-03-04"
+      ],
+      "description": [
+        "Abraham Lincoln, Second Inaugural Address1, [March 4, 1865] 1 The only known manuscript of Lincoln's famous Second Inaugural Address, this document appears to be a fair copy, rather than a composition draft. Its large lettering and well-spaced lines suggest it was copied out fair as a reading copy. This is confirmed by the revision he made to the address's ending, which could have been effected by inserting additional words between the lines. Instead, he made the revision by pasting a slip of paper, or tab, over the last two lines of his text and writing the revised version on the tab. At some point it was decided to make printed copies available to the press. The name written in pencil in the top margin of the first page of the manuscript, \u201cFlynn,\u201d is almost certainly that of the typesetter assigned by the printer to set the manuscript into type. After proofreading the galleys of what would become a three-page printed handout for the press, Lincoln seems to have retained a set of uncorrected galleys and fashioned this into his reading copy. He did this by cutting the printed galleys up into smaller segments (mostly consisting of one sentence), arranging them"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-29T14:04:36.998Z",
+      "group": [
+        "mal",
+        "abraham-lincoln-papers"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/resource/mal.4361300/?sp=1",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:12.5/0/default.jpg#h=292&w=455",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:25/0/default.jpg#h=585&w=911",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:50/0/default.jpg#h=1171&w=1823",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mal:436:4361300:001/full/pct:100/0/default.jpg#h=2342&w=3647"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jp2",
+        "image/tiff",
+        "text/xml"
+      ],
+      "number": [
+        "0000000001"
+      ],
+      "number_page": [
+        "0000000001"
+      ],
+      "online_format": [
+        "image",
+        "online text"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "abraham lincoln papers at the library of congress",
+        "abraham lincoln papers at the library of congress: series 3. general correspondence. 1837-1897"
+      ],
+      "resources": [
+        {
+          "files": 1,
+          "url": "https://www.loc.gov/resource/mal.4361300/?sp=1"
+        }
+      ],
+      "segmentof": [
+        "http://www.loc.gov/resource/mal.4361300/"
+      ],
+      "shelf_id": "01",
+      "subject": [
+        "civil war",
+        "politics and government",
+        "manuscripts",
+        "united states",
+        "presidents",
+        "history"
+      ],
+      "timestamp": "2022-04-23T07:02:46.656Z",
+      "title": "Image 1 of Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: Abraham Lincoln, [March 4, 1865] (Second Inaugural Address; endorsed by Lincoln, April 10, 1865) ",
+      "type": [
+        "segment"
+      ],
+      "url": "https://www.loc.gov/resource/mal.4361300/?sp=1"
+    }
+  ],
+  "timestamp": 1764803297343,
+  "type": "zoom",
+  "viewer_pagination": {
+    "current": 1,
+    "first": null,
+    "from": 1,
+    "last": "https://www.loc.gov/resource/mal.4361300/?fo=json&sp=4",
+    "next": "https://www.loc.gov/resource/mal.4361300/?fo=json&sp=2",
+    "of": 11,
+    "page_list": [
+      {
+        "number": 1,
+        "url": null
+      },
+      {
+        "number": 2,
+        "url": "https://www.loc.gov/resource/mal.4361300/?fo=json&sp=2"
+      },
+      {
+        "number": 3,
+        "url": "https://www.loc.gov/resource/mal.4361300/?fo=json&sp=3"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/mal.4361300/?fo=json&sp=4"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": null,
+    "results": "1 - 1",
+    "to": 1,
+    "total": 11
+  },
+  "views": {
+    "brief": "https://www.loc.gov/resource/mal.4361300/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/mal.4361300/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/mal.4361300/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/mal.4361300/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/mal.4361300/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/mal.4361300/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/mal.4361300/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/mal.4361300/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/mal.4361300/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/mal.4361300/?fo=json&st=text"
+  }
+}
